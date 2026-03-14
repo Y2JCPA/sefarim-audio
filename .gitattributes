@@ -1,0 +1,2 @@
+# When git-lfs is available, track MP3s:
+# *.mp3 filter=lfs diff=lfs merge=lfs -text
