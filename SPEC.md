@@ -13,7 +13,10 @@ Sefaria API  →  clean text  →  OpenAI TTS  →  MP3 files  →  GitHub repo
 ```
 
 1. **Pull**: Fetch English text from Sefaria API, chapter by chapter
-2. **Clean**: Strip HTML, normalize quotes/dashes, add natural pauses (periods between verses), prepend "Chapter N" header
+2. **Clean**: Strip HTML, normalize quotes/dashes, add natural pauses (periods between verses), prepend "Chapter N" header, plus:
+   - **G-d → God** (TTS reads "G-d" awkwardly; spell it out for narration)
+   - **Strip parenthetical scripture sources** like `(Ps. 73:28)`, `(Avot 4:16)`, `(Eruvin 22:1)` — they sound unnatural when read aloud
+   - **Keep descriptive parentheticals** like `(divine presence)`, `(the World to Come)` — these help the listener
 3. **Generate**: Send cleaned text to OpenAI `gpt-4o-mini-tts` → MP3
 4. **Store**: Save to `books/<book-slug>/chNN.mp3` in this repo
 
@@ -21,10 +24,10 @@ No LLM needed for processing — pure scripting.
 
 ## TTS Config
 - **Model**: `gpt-4o-mini-tts` ($0.60/1M chars)
-- **Voice**: `onyx` (deep, warm, narration-friendly) — test alternatives per book
+- **Voice**: `echo` — selected after testing all available voices (ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer). Runner-up: `ash`.
 - **Format**: MP3, default quality
 - **Speed**: 1.0 (normal)
-- **Instructions**: "Read this as a narrator of a classic philosophical Jewish text. Measured pace, clear enunciation, thoughtful tone. Pause naturally between paragraphs."
+- **Instructions**: "Read this as a thoughtful narrator of a classic Jewish philosophical text. Use a measured, warm pace with clear enunciation. Pause naturally between paragraphs. This is meant to be listened to like an audiobook — engaging but not dramatic."
 
 ## Cost Estimates
 | Book | Words | Chars (est) | Cost |
@@ -49,9 +52,8 @@ sefarim-audio/
 ├── SPEC.md              ← this file
 ├── README.md
 ├── scripts/
-│   ├── fetch.sh         ← pull text from Sefaria
-│   ├── clean.js         ← strip HTML, format for narration
-│   └── generate.sh      ← call OpenAI TTS, output MP3
+│   ├── fetch-and-clean.js  ← pull from Sefaria + strip HTML + format
+│   └── generate-audio.sh   ← call OpenAI TTS, chunk long chapters, output MP3
 ├── text/                ← cleaned text files (for review/debugging)
 │   └── mesillat-yesharim/
 │       ├── ch01.txt
@@ -64,16 +66,15 @@ sefarim-audio/
 
 ## Git / GitHub
 - **Repo**: `Y2JCPA/sefarim-audio` (private for now — MP3s are large)
-- **Git LFS**: enabled for `*.mp3` files
+- **Git LFS**: not yet installed; MP3s committed directly (each <100MB GitHub limit). Install LFS when repo grows.
 - **Branch**: `main`
 
-## Voice Testing
-Before batch-generating, test chapter 1 with a few voice options:
-- `onyx` — deep male, narration style
-- `fable` — warm British male
-- `nova` — clear female
-
-Pick the best, then batch the rest.
+## Voice Testing (Completed)
+Tested all 9 OpenAI voices with the same 3-sentence sample from chapter 1:
+- ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
+- **Winner: `echo`** — clean, natural male narrator tone
+- **Runner-up: `ash`** — also strong, slightly different character
+- Onyx was the original test (full ch01 generated) but echo preferred after comparison
 
 ## Notes
 - Sefaria texts are open-source (CC-BY-SA or similar) — attribution required

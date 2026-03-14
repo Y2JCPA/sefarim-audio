@@ -17,7 +17,7 @@ INSTRUCTIONS="Read this as a thoughtful narrator of a classic Jewish philosophic
 
 mkdir -p "$OUT_DIR"
 
-for txt in "$TEXT_DIR"/ch*.txt; do
+for txt in "$TEXT_DIR"/*.txt; do
   base=$(basename "$txt" .txt)
   mp3="$OUT_DIR/${base}.mp3"
 
