@@ -4,30 +4,165 @@
     "slug": "mesillat-yesharim",
     "chapters": [
       {
-        "num": 0,
-        "title": "Ch01",
+        "num": 1,
+        "title": "Chapter 1",
         "file": "books/mesillat-yesharim/ch01.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Chapter 2",
+        "file": "books/mesillat-yesharim/ch02.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Chapter 3",
+        "file": "books/mesillat-yesharim/ch03.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Chapter 4",
+        "file": "books/mesillat-yesharim/ch04.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Chapter 5",
+        "file": "books/mesillat-yesharim/ch05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Chapter 6",
+        "file": "books/mesillat-yesharim/ch06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Chapter 7",
+        "file": "books/mesillat-yesharim/ch07.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Chapter 8",
+        "file": "books/mesillat-yesharim/ch08.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Chapter 9",
+        "file": "books/mesillat-yesharim/ch09.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Chapter 10",
+        "file": "books/mesillat-yesharim/ch10.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Chapter 11",
+        "file": "books/mesillat-yesharim/ch11.mp3"
+      },
+      {
+        "num": 12,
+        "title": "Chapter 12",
+        "file": "books/mesillat-yesharim/ch12.mp3"
+      },
+      {
+        "num": 13,
+        "title": "Chapter 13",
+        "file": "books/mesillat-yesharim/ch13.mp3"
+      },
+      {
+        "num": 14,
+        "title": "Chapter 14",
+        "file": "books/mesillat-yesharim/ch14.mp3"
+      },
+      {
+        "num": 15,
+        "title": "Chapter 15",
+        "file": "books/mesillat-yesharim/ch15.mp3"
+      },
+      {
+        "num": 16,
+        "title": "Chapter 16",
+        "file": "books/mesillat-yesharim/ch16.mp3"
+      },
+      {
+        "num": 17,
+        "title": "Chapter 17",
+        "file": "books/mesillat-yesharim/ch17.mp3"
+      },
+      {
+        "num": 18,
+        "title": "Chapter 18",
+        "file": "books/mesillat-yesharim/ch18.mp3"
+      },
+      {
+        "num": 19,
+        "title": "Chapter 19",
+        "file": "books/mesillat-yesharim/ch19.mp3"
+      },
+      {
+        "num": 20,
+        "title": "Chapter 20",
+        "file": "books/mesillat-yesharim/ch20.mp3"
+      },
+      {
+        "num": 21,
+        "title": "Chapter 21",
+        "file": "books/mesillat-yesharim/ch21.mp3"
+      },
+      {
+        "num": 22,
+        "title": "Chapter 22",
+        "file": "books/mesillat-yesharim/ch22.mp3"
+      },
+      {
+        "num": 23,
+        "title": "Chapter 23",
+        "file": "books/mesillat-yesharim/ch23.mp3"
+      },
+      {
+        "num": 24,
+        "title": "Chapter 24",
+        "file": "books/mesillat-yesharim/ch24.mp3"
+      },
+      {
+        "num": 25,
+        "title": "Chapter 25",
+        "file": "books/mesillat-yesharim/ch25.mp3"
+      },
+      {
+        "num": 26,
+        "title": "Chapter 26",
+        "file": "books/mesillat-yesharim/ch26.mp3"
       }
     ]
   },
   {
-    "name": "Noam Elimelech Vayikra",
-    "slug": "noam-elimelech-vayikra",
+    "name": "Sippurei Maasiyot",
+    "slug": "sippurei-maasiyot",
     "chapters": [
       {
         "num": 0,
-        "title": "Kedoshim",
-        "file": "books/noam-elimelech-vayikra/kedoshim.mp3"
+        "title": "Story01",
+        "file": "books/sippurei-maasiyot/story01.mp3"
       },
       {
         "num": 0,
-        "title": "Metzora",
-        "file": "books/noam-elimelech-vayikra/metzora.mp3"
+        "title": "Story02",
+        "file": "books/sippurei-maasiyot/story02.mp3"
       },
       {
         "num": 0,
-        "title": "Vayikra",
-        "file": "books/noam-elimelech-vayikra/vayikra.mp3"
+        "title": "Story03",
+        "file": "books/sippurei-maasiyot/story03.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story04",
+        "file": "books/sippurei-maasiyot/story04.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story05",
+        "file": "books/sippurei-maasiyot/story05.mp3"
       }
     ]
   },
@@ -88,33 +223,23 @@
     ]
   },
   {
-    "name": "Sippurei Maasiyot",
-    "slug": "sippurei-maasiyot",
+    "name": "Noam Elimelech Vayikra",
+    "slug": "noam-elimelech-vayikra",
     "chapters": [
       {
         "num": 0,
-        "title": "Story01",
-        "file": "books/sippurei-maasiyot/story01.mp3"
+        "title": "Kedoshim",
+        "file": "books/noam-elimelech-vayikra/kedoshim.mp3"
       },
       {
         "num": 0,
-        "title": "Story02",
-        "file": "books/sippurei-maasiyot/story02.mp3"
+        "title": "Metzora",
+        "file": "books/noam-elimelech-vayikra/metzora.mp3"
       },
       {
         "num": 0,
-        "title": "Story03",
-        "file": "books/sippurei-maasiyot/story03.mp3"
-      },
-      {
-        "num": 0,
-        "title": "Story04",
-        "file": "books/sippurei-maasiyot/story04.mp3"
-      },
-      {
-        "num": 0,
-        "title": "Story05",
-        "file": "books/sippurei-maasiyot/story05.mp3"
+        "title": "Vayikra",
+        "file": "books/noam-elimelech-vayikra/vayikra.mp3"
       }
     ]
   },
@@ -123,53 +248,53 @@
     "slug": "tanya",
     "chapters": [
       {
-        "num": 0,
-        "title": "Ch01",
+        "num": 1,
+        "title": "Chapter 1",
         "file": "books/tanya/ch01.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch02",
+        "num": 2,
+        "title": "Chapter 2",
         "file": "books/tanya/ch02.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch03",
+        "num": 3,
+        "title": "Chapter 3",
         "file": "books/tanya/ch03.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch04",
+        "num": 4,
+        "title": "Chapter 4",
         "file": "books/tanya/ch04.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch05",
+        "num": 5,
+        "title": "Chapter 5",
         "file": "books/tanya/ch05.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch06",
+        "num": 6,
+        "title": "Chapter 6",
         "file": "books/tanya/ch06.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch07",
+        "num": 7,
+        "title": "Chapter 7",
         "file": "books/tanya/ch07.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch08",
+        "num": 8,
+        "title": "Chapter 8",
         "file": "books/tanya/ch08.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch09",
+        "num": 9,
+        "title": "Chapter 9",
         "file": "books/tanya/ch09.mp3"
       },
       {
-        "num": 0,
-        "title": "Ch10",
+        "num": 10,
+        "title": "Chapter 10",
         "file": "books/tanya/ch10.mp3"
       }
     ]
