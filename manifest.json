@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Mesillat Yesharim",
+    "slug": "mesillat-yesharim",
+    "chapters": [
+      {
+        "num": 0,
+        "title": "Ch01",
+        "file": "books/mesillat-yesharim/ch01.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Noam Elimelech Vayikra",
+    "slug": "noam-elimelech-vayikra",
+    "chapters": [
+      {
+        "num": 0,
+        "title": "Kedoshim",
+        "file": "books/noam-elimelech-vayikra/kedoshim.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Metzora",
+        "file": "books/noam-elimelech-vayikra/metzora.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Vayikra",
+        "file": "books/noam-elimelech-vayikra/vayikra.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Pele Yoetz",
+    "slug": "pele-yoetz",
+    "chapters": [
+      {
+        "num": 1,
+        "title": "Love Of God",
+        "file": "books/pele-yoetz/01-love-of-god.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Love Of Oneself",
+        "file": "books/pele-yoetz/02-love-of-oneself.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Love Of Children",
+        "file": "books/pele-yoetz/03-love-of-children.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Love Between Husband And Wife",
+        "file": "books/pele-yoetz/04-love-between-husband-and-wife.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Love Of Torah Scholars And Those Who Fear God",
+        "file": "books/pele-yoetz/05-love-of-torah-scholars-and-those-who-fear-god.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Love Of Friends",
+        "file": "books/pele-yoetz/06-love-of-friends.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Mourning For The Destruction Of The Temple",
+        "file": "books/pele-yoetz/07-mourning-for-the-destruction-of-the-temple.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Faith",
+        "file": "books/pele-yoetz/08-faith.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Eating And Drinking",
+        "file": "books/pele-yoetz/09-eating-and-drinking.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Truth",
+        "file": "books/pele-yoetz/10-truth.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Sippurei Maasiyot",
+    "slug": "sippurei-maasiyot",
+    "chapters": [
+      {
+        "num": 0,
+        "title": "Story01",
+        "file": "books/sippurei-maasiyot/story01.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story02",
+        "file": "books/sippurei-maasiyot/story02.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story03",
+        "file": "books/sippurei-maasiyot/story03.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story04",
+        "file": "books/sippurei-maasiyot/story04.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Story05",
+        "file": "books/sippurei-maasiyot/story05.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Tanya",
+    "slug": "tanya",
+    "chapters": [
+      {
+        "num": 0,
+        "title": "Ch01",
+        "file": "books/tanya/ch01.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch02",
+        "file": "books/tanya/ch02.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch03",
+        "file": "books/tanya/ch03.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch04",
+        "file": "books/tanya/ch04.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch05",
+        "file": "books/tanya/ch05.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch06",
+        "file": "books/tanya/ch06.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch07",
+        "file": "books/tanya/ch07.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch08",
+        "file": "books/tanya/ch08.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch09",
+        "file": "books/tanya/ch09.mp3"
+      },
+      {
+        "num": 0,
+        "title": "Ch10",
+        "file": "books/tanya/ch10.mp3"
+      }
+    ]
+  }
+]

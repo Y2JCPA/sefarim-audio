@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sefarim Audio — Classic Jewish Texts</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f0f14;
+      color: #e8e8f0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 32px 24px 16px;
+      text-align: center;
+      border-bottom: 1px solid #1e1e2e;
+    }
+
+    header h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #c9a96e, #e8c98a);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: 0.5px;
+    }
+
+    header p {
+      margin-top: 6px;
+      color: #888;
+      font-size: 0.9rem;
+    }
+
+    .layout {
+      display: flex;
+      flex: 1;
+      min-height: 0;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 280px;
+      flex-shrink: 0;
+      background: #13131a;
+      border-right: 1px solid #1e1e2e;
+      overflow-y: auto;
+      padding: 16px 0;
+    }
+
+    .book-section { margin-bottom: 8px; }
+
+    .book-header {
+      padding: 10px 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #c9a96e;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      user-select: none;
+    }
+
+    .book-header:hover { background: #1a1a26; }
+
+    .book-header .arrow {
+      font-size: 0.65rem;
+      transition: transform 0.2s;
+    }
+
+    .book-header.open .arrow { transform: rotate(90deg); }
+
+    .chapter-list { display: none; }
+    .chapter-list.open { display: block; }
+
+    .chapter-item {
+      padding: 9px 20px 9px 30px;
+      font-size: 0.88rem;
+      color: #aaa;
+      cursor: pointer;
+      border-left: 2px solid transparent;
+      transition: all 0.15s;
+      line-height: 1.3;
+    }
+
+    .chapter-item:hover {
+      background: #1a1a26;
+      color: #e8e8f0;
+    }
+
+    .chapter-item.active {
+      color: #e8c98a;
+      border-left-color: #c9a96e;
+      background: #1c1c28;
+    }
+
+    /* Main content */
+    .main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+      overflow-y: auto;
+    }
+
+    .empty-state {
+      text-align: center;
+      color: #555;
+    }
+
+    .empty-state .icon { font-size: 3rem; margin-bottom: 16px; }
+    .empty-state p { font-size: 1rem; }
+
+    .player-card {
+      width: 100%;
+      max-width: 580px;
+      background: #16161f;
+      border: 1px solid #2a2a3a;
+      border-radius: 16px;
+      padding: 32px;
+      display: none;
+    }
+
+    .player-card.visible { display: block; }
+
+    .now-playing-book {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: #c9a96e;
+      margin-bottom: 8px;
+    }
+
+    .now-playing-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #f0f0f8;
+      margin-bottom: 28px;
+      line-height: 1.3;
+    }
+
+    /* Progress */
+    .progress-wrap {
+      margin-bottom: 8px;
+      position: relative;
+    }
+
+    #progress {
+      width: 100%;
+      height: 4px;
+      -webkit-appearance: none;
+      appearance: none;
+      background: #2a2a3a;
+      border-radius: 4px;
+      cursor: pointer;
+      outline: none;
+    }
+
+    #progress::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #c9a96e;
+      cursor: pointer;
+      margin-top: -5px;
+    }
+
+    #progress::-webkit-slider-runnable-track {
+      height: 4px;
+      border-radius: 4px;
+    }
+
+    .time-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.78rem;
+      color: #666;
+      margin-bottom: 24px;
+    }
+
+    /* Controls */
+    .controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+
+    .btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #aaa;
+      font-size: 1.4rem;
+      padding: 8px;
+      border-radius: 50%;
+      transition: all 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .btn:hover { color: #e8e8f0; background: #1e1e2e; }
+
+    .btn-play {
+      width: 56px;
+      height: 56px;
+      background: #c9a96e;
+      color: #0f0f14;
+      font-size: 1.5rem;
+      border-radius: 50%;
+    }
+
+    .btn-play:hover { background: #e8c98a; color: #0f0f14; }
+
+    /* Speed */
+    .speed-row {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .speed-label { font-size: 0.75rem; color: #666; margin-right: 4px; }
+
+    .speed-btn {
+      padding: 4px 10px;
+      font-size: 0.78rem;
+      border: 1px solid #2a2a3a;
+      border-radius: 20px;
+      background: none;
+      color: #888;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .speed-btn:hover, .speed-btn.active {
+      background: #c9a96e;
+      color: #0f0f14;
+      border-color: #c9a96e;
+      font-weight: 600;
+    }
+
+    /* Sticky player bar at bottom */
+    .sticky-bar {
+      display: none;
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      background: #13131a;
+      border-top: 1px solid #2a2a3a;
+      padding: 10px 20px;
+      align-items: center;
+      gap: 16px;
+      z-index: 100;
+    }
+
+    .sticky-bar.visible { display: flex; }
+
+    .sticky-info { flex: 1; min-width: 0; }
+    .sticky-book { font-size: 0.7rem; color: #c9a96e; text-transform: uppercase; letter-spacing: 0.8px; }
+    .sticky-title { font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+    .sticky-controls { display: flex; gap: 8px; align-items: center; }
+
+    .sticky-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      color: #aaa;
+      font-size: 1.2rem;
+      padding: 6px;
+      border-radius: 50%;
+      transition: all 0.15s;
+    }
+    .sticky-btn:hover { color: #e8c8f0; }
+    .sticky-btn.play { color: #c9a96e; font-size: 1.4rem; }
+    .sticky-btn.play:hover { color: #e8c98a; }
+
+    @media (max-width: 600px) {
+      .layout { flex-direction: column; }
+      .sidebar { width: 100%; max-height: 220px; border-right: none; border-bottom: 1px solid #1e1e2e; }
+      .main { padding: 24px 16px 80px; }
+      .player-card { padding: 24px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📖 Sefarim Audio</h1>
+  <p>Classic Jewish texts — translated and narrated</p>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar">
+    <!-- populated by JS -->
+  </nav>
+
+  <main class="main" id="main">
+    <div class="empty-state" id="emptyState">
+      <div class="icon">🎧</div>
+      <p>Select a chapter to begin listening</p>
+    </div>
+
+    <div class="player-card" id="playerCard">
+      <div class="now-playing-book" id="npBook"></div>
+      <div class="now-playing-title" id="npTitle"></div>
+
+      <div class="progress-wrap">
+        <input type="range" id="progress" min="0" max="100" value="0" step="0.1">
+      </div>
+      <div class="time-row">
+        <span id="currentTime">0:00</span>
+        <span id="duration">0:00</span>
+      </div>
+
+      <div class="controls">
+        <button class="btn" id="btnPrev" title="Previous">⏮</button>
+        <button class="btn btn-play" id="btnPlay" title="Play/Pause">▶</button>
+        <button class="btn" id="btnNext" title="Next">⏭</button>
+      </div>
+
+      <div class="speed-row">
+        <span class="speed-label">Speed:</span>
+        <button class="speed-btn" data-speed="0.8">0.8×</button>
+        <button class="speed-btn active" data-speed="1">1×</button>
+        <button class="speed-btn" data-speed="1.2">1.2×</button>
+        <button class="speed-btn" data-speed="1.5">1.5×</button>
+        <button class="speed-btn" data-speed="2">2×</button>
+      </div>
+    </div>
+  </main>
+</div>
+
+<!-- Sticky bottom bar (shows when player card scrolls out of view) -->
+<div class="sticky-bar" id="stickyBar">
+  <div class="sticky-info">
+    <div class="sticky-book" id="stickyBook"></div>
+    <div class="sticky-title" id="stickyTitle"></div>
+  </div>
+  <div class="sticky-controls">
+    <button class="sticky-btn" id="sBtnPrev">⏮</button>
+    <button class="sticky-btn play" id="sBtnPlay">▶</button>
+    <button class="sticky-btn" id="sBtnNext">⏭</button>
+  </div>
+</div>
+
+<audio id="audio"></audio>
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────────
+const MANIFEST_URL = 'manifest.json';
+
+let manifest = [];
+let currentBook = null;
+let currentChapterIdx = 0;
+let audio = document.getElementById('audio');
+let isLoaded = false;
+
+// ── Init ──────────────────────────────────────────────────────────────────
+async function init() {
+  const res = await fetch(MANIFEST_URL);
+  manifest = await res.json();
+  renderSidebar();
+}
+
+// ── Sidebar ───────────────────────────────────────────────────────────────
+function renderSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  sidebar.innerHTML = '';
+
+  manifest.forEach((book, bi) => {
+    const section = document.createElement('div');
+    section.className = 'book-section';
+
+    const header = document.createElement('div');
+    header.className = 'book-header';
+    header.innerHTML = `<span>${book.name}</span><span class="arrow">▶</span>`;
+    header.addEventListener('click', () => toggleBook(header, list));
+
+    const list = document.createElement('div');
+    list.className = 'chapter-list';
+
+    book.chapters.forEach((ch, ci) => {
+      const item = document.createElement('div');
+      item.className = 'chapter-item';
+      item.dataset.bookIdx = bi;
+      item.dataset.chIdx = ci;
+      item.textContent = ch.title;
+      item.addEventListener('click', () => loadChapter(bi, ci));
+      list.appendChild(item);
+    });
+
+    section.appendChild(header);
+    section.appendChild(list);
+    sidebar.appendChild(section);
+  });
+}
+
+function toggleBook(header, list) {
+  const isOpen = list.classList.contains('open');
+  // Close all
+  document.querySelectorAll('.chapter-list.open').forEach(l => l.classList.remove('open'));
+  document.querySelectorAll('.book-header.open').forEach(h => h.classList.remove('open'));
+  if (!isOpen) {
+    list.classList.add('open');
+    header.classList.add('open');
+  }
+}
+
+// ── Load & Play ───────────────────────────────────────────────────────────
+function loadChapter(bookIdx, chIdx, autoplay = true) {
+  currentBook = bookIdx;
+  currentChapterIdx = chIdx;
+
+  const book = manifest[bookIdx];
+  const ch = book.chapters[chIdx];
+
+  // Update UI
+  document.getElementById('npBook').textContent = book.name;
+  document.getElementById('npTitle').textContent = ch.title;
+  document.getElementById('stickyBook').textContent = book.name;
+  document.getElementById('stickyTitle').textContent = ch.title;
+
+  document.getElementById('emptyState').style.display = 'none';
+  document.getElementById('playerCard').classList.add('visible');
+  document.getElementById('stickyBar').classList.add('visible');
+
+  // Active state in sidebar
+  document.querySelectorAll('.chapter-item').forEach(el => el.classList.remove('active'));
+  const active = document.querySelector(`.chapter-item[data-book-idx="${bookIdx}"][data-ch-idx="${chIdx}"]`);
+  if (active) active.classList.add('active');
+
+  // Open that book section
+  const section = active?.closest('.book-section');
+  if (section) {
+    const list = section.querySelector('.chapter-list');
+    const header = section.querySelector('.book-header');
+    document.querySelectorAll('.chapter-list').forEach(l => l.classList.remove('open'));
+    document.querySelectorAll('.book-header').forEach(h => h.classList.remove('open'));
+    list.classList.add('open');
+    header.classList.add('open');
+  }
+
+  // Load audio
+  audio.src = ch.file;
+  audio.load();
+  document.getElementById('progress').value = 0;
+  document.getElementById('currentTime').textContent = '0:00';
+  document.getElementById('duration').textContent = '...';
+
+  if (autoplay) {
+    audio.play().catch(() => {});
+    setPlayBtn(true);
+  } else {
+    setPlayBtn(false);
+  }
+}
+
+function setPlayBtn(playing) {
+  document.getElementById('btnPlay').textContent = playing ? '⏸' : '▶';
+  document.getElementById('sBtnPlay').textContent = playing ? '⏸' : '▶';
+}
+
+// ── Controls ──────────────────────────────────────────────────────────────
+document.getElementById('btnPlay').addEventListener('click', togglePlay);
+document.getElementById('sBtnPlay').addEventListener('click', togglePlay);
+
+function togglePlay() {
+  if (!audio.src) return;
+  if (audio.paused) { audio.play(); setPlayBtn(true); }
+  else { audio.pause(); setPlayBtn(false); }
+}
+
+document.getElementById('btnPrev').addEventListener('click', prevChapter);
+document.getElementById('sBtnPrev').addEventListener('click', prevChapter);
+function prevChapter() {
+  if (currentBook === null) return;
+  if (audio.currentTime > 5) { audio.currentTime = 0; return; }
+  const book = manifest[currentBook];
+  if (currentChapterIdx > 0) loadChapter(currentBook, currentChapterIdx - 1);
+}
+
+document.getElementById('btnNext').addEventListener('click', nextChapter);
+document.getElementById('sBtnNext').addEventListener('click', nextChapter);
+function nextChapter() {
+  if (currentBook === null) return;
+  const book = manifest[currentBook];
+  if (currentChapterIdx < book.chapters.length - 1) {
+    loadChapter(currentBook, currentChapterIdx + 1);
+  }
+}
+
+// Progress bar
+const progressEl = document.getElementById('progress');
+progressEl.addEventListener('input', () => {
+  if (audio.duration) audio.currentTime = (progressEl.value / 100) * audio.duration;
+});
+
+audio.addEventListener('timeupdate', () => {
+  if (audio.duration) {
+    progressEl.value = (audio.currentTime / audio.duration) * 100;
+    document.getElementById('currentTime').textContent = fmt(audio.currentTime);
+  }
+});
+
+audio.addEventListener('loadedmetadata', () => {
+  document.getElementById('duration').textContent = fmt(audio.duration);
+});
+
+audio.addEventListener('ended', nextChapter);
+audio.addEventListener('play', () => setPlayBtn(true));
+audio.addEventListener('pause', () => setPlayBtn(false));
+
+// Speed
+document.querySelectorAll('.speed-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    audio.playbackRate = parseFloat(btn.dataset.speed);
+  });
+});
+
+// ── Helpers ───────────────────────────────────────────────────────────────
+function fmt(s) {
+  if (!s || isNaN(s)) return '0:00';
+  const m = Math.floor(s / 60);
+  const sec = Math.floor(s % 60).toString().padStart(2, '0');
+  return `${m}:${sec}`;
+}
+
+// Sticky bar visibility
+const playerCard = document.getElementById('playerCard');
+const observer = new IntersectionObserver(entries => {
+  const bar = document.getElementById('stickyBar');
+  if (currentBook === null) return;
+  if (!entries[0].isIntersecting) bar.classList.add('visible');
+  else bar.classList.remove('visible');
+}, { threshold: 0.5 });
+observer.observe(playerCard);
+
+// ── Start ─────────────────────────────────────────────────────────────────
+init().catch(console.error);
+</script>
+</body>
+</html>
