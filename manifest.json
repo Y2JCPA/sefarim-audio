@@ -218,6 +218,73 @@
             "file": "books/shmuel-stories-chanah-shmuel/ch05.mp3"
           }
         ]
+      },
+      {
+        "name": "The Ark in Exile",
+        "slug": "shmuel-stories-the-ark-in-exile",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Battle at Even HaEzer",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Fall of Eli",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "Dagon Falls",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Plague",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Road Home",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "The Gathering at Mitzpah",
+            "file": "books/shmuel-stories-the-ark-in-exile/ch06.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Give Us a King",
+        "slug": "shmuel-stories-give-us-a-king",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Sons Who Failed",
+            "file": "books/shmuel-stories-give-us-a-king/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "They Have Not Rejected You",
+            "file": "books/shmuel-stories-give-us-a-king/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Lost Donkeys",
+            "file": "books/shmuel-stories-give-us-a-king/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Hidden Among the Baggage",
+            "file": "books/shmuel-stories-give-us-a-king/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Farewell",
+            "file": "books/shmuel-stories-give-us-a-king/ch05.mp3"
+          }
+        ]
       }
     ]
   },
