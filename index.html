@@ -39,15 +39,15 @@
     }
 
     .layout {
-      display: flex;
+      display: grid;
+      grid-template-columns: minmax(320px, 2fr) minmax(280px, 1fr);
       flex: 1;
       min-height: 0;
     }
 
     /* Sidebar */
     .sidebar {
-      width: 280px;
-      flex-shrink: 0;
+      min-width: 0;
       background: #13131a;
       border-right: 1px solid #1e1e2e;
       overflow-y: auto;
@@ -105,12 +105,12 @@
 
     /* Main content */
     .main {
-      flex: 1;
+      min-width: 0;
       display: flex;
       flex-direction: column;
-      align-items: center;
+      align-items: stretch;
       justify-content: center;
-      padding: 40px 24px;
+      padding: 28px 20px 40px;
       overflow-y: auto;
     }
 
@@ -124,12 +124,15 @@
 
     .player-card {
       width: 100%;
-      max-width: 580px;
+      max-width: 420px;
+      margin: 0 auto;
       background: #16161f;
       border: 1px solid #2a2a3a;
       border-radius: 16px;
-      padding: 32px;
+      padding: 24px;
       display: none;
+      position: sticky;
+      top: 24px;
     }
 
     .player-card.visible { display: block; }
@@ -291,11 +294,16 @@
     .sticky-btn.play { color: #c9a96e; font-size: 1.4rem; }
     .sticky-btn.play:hover { color: #e8c98a; }
 
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: minmax(280px, 1.6fr) minmax(260px, 1fr); }
+      .player-card { max-width: 380px; }
+    }
+
     @media (max-width: 600px) {
-      .layout { flex-direction: column; }
+      .layout { display: flex; flex-direction: column; }
       .sidebar { width: 100%; max-height: 220px; border-right: none; border-bottom: 1px solid #1e1e2e; }
       .main { padding: 24px 16px 80px; }
-      .player-card { padding: 24px 16px; }
+      .player-card { max-width: none; padding: 24px 16px; position: static; top: auto; }
     }
   </style>
 </head>
