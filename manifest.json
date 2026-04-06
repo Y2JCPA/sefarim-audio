@@ -1,180 +1,186 @@
 [
   {
-    "name": "Shoftim Stories - Shimshon",
-    "slug": "shoftim-stories-shimshon",
-    "chapters": [
+    "name": "Shoftim Stories",
+    "slug": "shoftim-stories",
+    "children": [
       {
-        "num": 1,
-        "title": "The Barren Woman and the Angel",
-        "file": "books/shoftim-stories-shimshon/ch01.mp3"
+        "name": "Ehud",
+        "slug": "shoftim-stories-ehud",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "Eighteen Years",
+            "file": "books/shoftim-stories-ehud/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Left-Handed Man",
+            "file": "books/shoftim-stories-ehud/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Dagger",
+            "file": "books/shoftim-stories-ehud/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Tribute",
+            "file": "books/shoftim-stories-ehud/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Return",
+            "file": "books/shoftim-stories-ehud/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "A Message from God",
+            "file": "books/shoftim-stories-ehud/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "The Blade and the Door",
+            "file": "books/shoftim-stories-ehud/ch07.mp3"
+          },
+          {
+            "num": 8,
+            "title": "The Shofar",
+            "file": "books/shoftim-stories-ehud/ch08.mp3"
+          },
+          {
+            "num": 9,
+            "title": "Eighty Years",
+            "file": "books/shoftim-stories-ehud/ch09.mp3"
+          }
+        ]
       },
       {
-        "num": 2,
-        "title": "The Spirit Begins to Stir",
-        "file": "books/shoftim-stories-shimshon/ch02.mp3"
+        "name": "Devorah & Barak",
+        "slug": "shoftim-stories-devorah-barak",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Iron Chariots",
+            "file": "books/shoftim-stories-devorah-barak/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Woman Under the Palm",
+            "file": "books/shoftim-stories-devorah-barak/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Reluctant Commander",
+            "file": "books/shoftim-stories-devorah-barak/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Chever the Kenite",
+            "file": "books/shoftim-stories-devorah-barak/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Battle at Nachal Kishon",
+            "file": "books/shoftim-stories-devorah-barak/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "Yael's Tent",
+            "file": "books/shoftim-stories-devorah-barak/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "The Song",
+            "file": "books/shoftim-stories-devorah-barak/ch07.mp3"
+          }
+        ]
       },
       {
-        "num": 3,
-        "title": "The Lion and the Riddle",
-        "file": "books/shoftim-stories-shimshon/ch03.mp3"
+        "name": "Gideon",
+        "slug": "shoftim-stories-gideon",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Locusts",
+            "file": "books/shoftim-stories-gideon/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Man in the Winepress",
+            "file": "books/shoftim-stories-gideon/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Altar at Midnight",
+            "file": "books/shoftim-stories-gideon/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Fleece on the Threshing Floor",
+            "file": "books/shoftim-stories-gideon/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "Three Hundred",
+            "file": "books/shoftim-stories-gideon/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "Torches and Trumpets",
+            "file": "books/shoftim-stories-gideon/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "The Aftermath",
+            "file": "books/shoftim-stories-gideon/ch07.mp3"
+          }
+        ]
       },
       {
-        "num": 4,
-        "title": "Fire in the Fields",
-        "file": "books/shoftim-stories-shimshon/ch04.mp3"
-      },
-      {
-        "num": 5,
-        "title": "The Jawbone",
-        "file": "books/shoftim-stories-shimshon/ch05.mp3"
-      },
-      {
-        "num": 6,
-        "title": "Delilah",
-        "file": "books/shoftim-stories-shimshon/ch06.mp3"
-      },
-      {
-        "num": 7,
-        "title": "Between the Pillars",
-        "file": "books/shoftim-stories-shimshon/ch07.mp3"
-      },
-      {
-        "num": 8,
-        "title": "Legacy",
-        "file": "books/shoftim-stories-shimshon/ch08.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Shoftim Stories - Gideon",
-    "slug": "shoftim-stories-gideon",
-    "chapters": [
-      {
-        "num": 1,
-        "title": "The Locusts",
-        "file": "books/shoftim-stories-gideon/ch01.mp3"
-      },
-      {
-        "num": 2,
-        "title": "The Man in the Winepress",
-        "file": "books/shoftim-stories-gideon/ch02.mp3"
-      },
-      {
-        "num": 3,
-        "title": "The Altar at Midnight",
-        "file": "books/shoftim-stories-gideon/ch03.mp3"
-      },
-      {
-        "num": 4,
-        "title": "The Fleece on the Threshing Floor",
-        "file": "books/shoftim-stories-gideon/ch04.mp3"
-      },
-      {
-        "num": 5,
-        "title": "Three Hundred",
-        "file": "books/shoftim-stories-gideon/ch05.mp3"
-      },
-      {
-        "num": 6,
-        "title": "Torches and Trumpets",
-        "file": "books/shoftim-stories-gideon/ch06.mp3"
-      },
-      {
-        "num": 7,
-        "title": "The Aftermath",
-        "file": "books/shoftim-stories-gideon/ch07.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Shoftim Stories - Ehud",
-    "slug": "shoftim-stories-ehud",
-    "chapters": [
-      {
-        "num": 1,
-        "title": "Eighteen Years",
-        "file": "books/shoftim-stories-ehud/ch01.mp3"
-      },
-      {
-        "num": 2,
-        "title": "The Left-Handed Man",
-        "file": "books/shoftim-stories-ehud/ch02.mp3"
-      },
-      {
-        "num": 3,
-        "title": "The Dagger",
-        "file": "books/shoftim-stories-ehud/ch03.mp3"
-      },
-      {
-        "num": 4,
-        "title": "The Tribute",
-        "file": "books/shoftim-stories-ehud/ch04.mp3"
-      },
-      {
-        "num": 5,
-        "title": "The Return",
-        "file": "books/shoftim-stories-ehud/ch05.mp3"
-      },
-      {
-        "num": 6,
-        "title": "A Message from God",
-        "file": "books/shoftim-stories-ehud/ch06.mp3"
-      },
-      {
-        "num": 7,
-        "title": "The Blade and the Door",
-        "file": "books/shoftim-stories-ehud/ch07.mp3"
-      },
-      {
-        "num": 8,
-        "title": "The Shofar",
-        "file": "books/shoftim-stories-ehud/ch08.mp3"
-      },
-      {
-        "num": 9,
-        "title": "Eighty Years",
-        "file": "books/shoftim-stories-ehud/ch09.mp3"
-      }
-    ]
-  },
-  {
-    "name": "Shoftim Stories - Devorah & Barak",
-    "slug": "shoftim-stories-devorah-barak",
-    "chapters": [
-      {
-        "num": 1,
-        "title": "The Iron Chariots",
-        "file": "books/shoftim-stories-devorah-barak/ch01.mp3"
-      },
-      {
-        "num": 2,
-        "title": "The Woman Under the Palm",
-        "file": "books/shoftim-stories-devorah-barak/ch02.mp3"
-      },
-      {
-        "num": 3,
-        "title": "The Reluctant Commander",
-        "file": "books/shoftim-stories-devorah-barak/ch03.mp3"
-      },
-      {
-        "num": 4,
-        "title": "Chever the Kenite",
-        "file": "books/shoftim-stories-devorah-barak/ch04.mp3"
-      },
-      {
-        "num": 5,
-        "title": "The Battle at Nachal Kishon",
-        "file": "books/shoftim-stories-devorah-barak/ch05.mp3"
-      },
-      {
-        "num": 6,
-        "title": "Yael's Tent",
-        "file": "books/shoftim-stories-devorah-barak/ch06.mp3"
-      },
-      {
-        "num": 7,
-        "title": "The Song",
-        "file": "books/shoftim-stories-devorah-barak/ch07.mp3"
+        "name": "Shimshon",
+        "slug": "shoftim-stories-shimshon",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Barren Woman and the Angel",
+            "file": "books/shoftim-stories-shimshon/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Spirit Begins to Stir",
+            "file": "books/shoftim-stories-shimshon/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Lion and the Riddle",
+            "file": "books/shoftim-stories-shimshon/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Fire in the Fields",
+            "file": "books/shoftim-stories-shimshon/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Jawbone",
+            "file": "books/shoftim-stories-shimshon/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "Delilah",
+            "file": "books/shoftim-stories-shimshon/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "Between the Pillars",
+            "file": "books/shoftim-stories-shimshon/ch07.mp3"
+          },
+          {
+            "num": 8,
+            "title": "Legacy",
+            "file": "books/shoftim-stories-shimshon/ch08.mp3"
+          }
+        ]
       }
     ]
   },
