@@ -4,6 +4,37 @@
     "slug": "shoftim-stories",
     "children": [
       {
+        "name": "Avimelech",
+        "slug": "shoftim-stories-avimelech",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Thornbush",
+            "file": "books/shoftim-stories-avimelech/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Parable",
+            "file": "books/shoftim-stories-avimelech/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Evil Spirit",
+            "file": "books/shoftim-stories-avimelech/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Millstone",
+            "file": "books/shoftim-stories-avimelech/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "Thus God Repaid",
+            "file": "books/shoftim-stories-avimelech/ch05.mp3"
+          }
+        ]
+      },
+      {
         "name": "Ehud",
         "slug": "shoftim-stories-ehud",
         "chapters": [
