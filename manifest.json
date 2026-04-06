@@ -1,5 +1,46 @@
 [
   {
+    "name": "Shoftim Stories - Gideon",
+    "slug": "shoftim-stories-gideon",
+    "chapters": [
+      {
+        "num": 1,
+        "title": "The Locusts",
+        "file": "books/shoftim-stories-gideon/ch01.mp3"
+      },
+      {
+        "num": 2,
+        "title": "The Man in the Winepress",
+        "file": "books/shoftim-stories-gideon/ch02.mp3"
+      },
+      {
+        "num": 3,
+        "title": "The Altar at Midnight",
+        "file": "books/shoftim-stories-gideon/ch03.mp3"
+      },
+      {
+        "num": 4,
+        "title": "The Fleece on the Threshing Floor",
+        "file": "books/shoftim-stories-gideon/ch04.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Three Hundred",
+        "file": "books/shoftim-stories-gideon/ch05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Torches and Trumpets",
+        "file": "books/shoftim-stories-gideon/ch06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "The Aftermath",
+        "file": "books/shoftim-stories-gideon/ch07.mp3"
+      }
+    ]
+  },
+  {
     "name": "Shoftim Stories - Ehud",
     "slug": "shoftim-stories-ehud",
     "chapters": [
