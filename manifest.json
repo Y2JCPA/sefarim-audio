@@ -185,6 +185,43 @@
     ]
   },
   {
+    "name": "Shmuel Stories",
+    "slug": "shmuel-stories",
+    "children": [
+      {
+        "name": "Chanah and Shmuel",
+        "slug": "shmuel-stories-chanah-shmuel",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Road to Shiloh",
+            "file": "books/shmuel-stories-chanah-shmuel/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Prayer",
+            "file": "books/shmuel-stories-chanah-shmuel/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Child of Shiloh",
+            "file": "books/shmuel-stories-chanah-shmuel/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Sons of Eli",
+            "file": "books/shmuel-stories-chanah-shmuel/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Voice in the Night",
+            "file": "books/shmuel-stories-chanah-shmuel/ch05.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Mesillat Yesharim",
     "slug": "mesillat-yesharim",
     "chapters": [
