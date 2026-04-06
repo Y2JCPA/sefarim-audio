@@ -137,6 +137,52 @@
         ]
       },
       {
+        "name": "Yiftach",
+        "slug": "shoftim-stories-yiftach",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Outcast",
+            "file": "books/shoftim-stories-yiftach/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Ammonite Threat",
+            "file": "books/shoftim-stories-yiftach/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Diplomat",
+            "file": "books/shoftim-stories-yiftach/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Vow",
+            "file": "books/shoftim-stories-yiftach/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Victory",
+            "file": "books/shoftim-stories-yiftach/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "The Daughter",
+            "file": "books/shoftim-stories-yiftach/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "Between the Two of Them",
+            "file": "books/shoftim-stories-yiftach/ch07.mp3"
+          },
+          {
+            "num": 8,
+            "title": "Legacy",
+            "file": "books/shoftim-stories-yiftach/ch08.mp3"
+          }
+        ]
+      },
+      {
         "name": "Shimshon",
         "slug": "shoftim-stories-shimshon",
         "chapters": [
