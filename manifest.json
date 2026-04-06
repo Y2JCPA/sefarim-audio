@@ -1,5 +1,51 @@
 [
   {
+    "name": "Shoftim Stories - Shimshon",
+    "slug": "shoftim-stories-shimshon",
+    "chapters": [
+      {
+        "num": 1,
+        "title": "The Barren Woman and the Angel",
+        "file": "books/shoftim-stories-shimshon/ch01.mp3"
+      },
+      {
+        "num": 2,
+        "title": "The Spirit Begins to Stir",
+        "file": "books/shoftim-stories-shimshon/ch02.mp3"
+      },
+      {
+        "num": 3,
+        "title": "The Lion and the Riddle",
+        "file": "books/shoftim-stories-shimshon/ch03.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Fire in the Fields",
+        "file": "books/shoftim-stories-shimshon/ch04.mp3"
+      },
+      {
+        "num": 5,
+        "title": "The Jawbone",
+        "file": "books/shoftim-stories-shimshon/ch05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Delilah",
+        "file": "books/shoftim-stories-shimshon/ch06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Between the Pillars",
+        "file": "books/shoftim-stories-shimshon/ch07.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Legacy",
+        "file": "books/shoftim-stories-shimshon/ch08.mp3"
+      }
+    ]
+  },
+  {
     "name": "Shoftim Stories - Gideon",
     "slug": "shoftim-stories-gideon",
     "chapters": [
