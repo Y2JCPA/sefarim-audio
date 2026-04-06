@@ -1,5 +1,56 @@
 [
   {
+    "name": "Shoftim Stories - Ehud",
+    "slug": "shoftim-stories-ehud",
+    "chapters": [
+      {
+        "num": 1,
+        "title": "Eighteen Years",
+        "file": "books/shoftim-stories-ehud/ch01.mp3"
+      },
+      {
+        "num": 2,
+        "title": "The Left-Handed Man",
+        "file": "books/shoftim-stories-ehud/ch02.mp3"
+      },
+      {
+        "num": 3,
+        "title": "The Dagger",
+        "file": "books/shoftim-stories-ehud/ch03.mp3"
+      },
+      {
+        "num": 4,
+        "title": "The Tribute",
+        "file": "books/shoftim-stories-ehud/ch04.mp3"
+      },
+      {
+        "num": 5,
+        "title": "The Return",
+        "file": "books/shoftim-stories-ehud/ch05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "A Message from God",
+        "file": "books/shoftim-stories-ehud/ch06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "The Blade and the Door",
+        "file": "books/shoftim-stories-ehud/ch07.mp3"
+      },
+      {
+        "num": 8,
+        "title": "The Shofar",
+        "file": "books/shoftim-stories-ehud/ch08.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Eighty Years",
+        "file": "books/shoftim-stories-ehud/ch09.mp3"
+      }
+    ]
+  },
+  {
     "name": "Shoftim Stories - Devorah & Barak",
     "slug": "shoftim-stories-devorah-barak",
     "chapters": [
