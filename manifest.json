@@ -1,5 +1,46 @@
 [
   {
+    "name": "Shoftim Stories - Devorah & Barak",
+    "slug": "shoftim-stories-devorah-barak",
+    "chapters": [
+      {
+        "num": 1,
+        "title": "The Iron Chariots",
+        "file": "books/shoftim-stories-devorah-barak/ch01.mp3"
+      },
+      {
+        "num": 2,
+        "title": "The Woman Under the Palm",
+        "file": "books/shoftim-stories-devorah-barak/ch02.mp3"
+      },
+      {
+        "num": 3,
+        "title": "The Reluctant Commander",
+        "file": "books/shoftim-stories-devorah-barak/ch03.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Chever the Kenite",
+        "file": "books/shoftim-stories-devorah-barak/ch04.mp3"
+      },
+      {
+        "num": 5,
+        "title": "The Battle at Nachal Kishon",
+        "file": "books/shoftim-stories-devorah-barak/ch05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Yael's Tent",
+        "file": "books/shoftim-stories-devorah-barak/ch06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "The Song",
+        "file": "books/shoftim-stories-devorah-barak/ch07.mp3"
+      }
+    ]
+  },
+  {
     "name": "Mesillat Yesharim",
     "slug": "mesillat-yesharim",
     "chapters": [
