@@ -285,6 +285,73 @@
             "file": "books/shmuel-stories-give-us-a-king/ch05.mp3"
           }
         ]
+      },
+      {
+        "name": "The Fall of Shaul",
+        "slug": "shmuel-stories-the-fall-of-shaul",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Rash Offering",
+            "file": "books/shmuel-stories-the-fall-of-shaul/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "Yonatan at Michmash",
+            "file": "books/shmuel-stories-the-fall-of-shaul/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Oath and the Honey",
+            "file": "books/shmuel-stories-the-fall-of-shaul/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Go and Destroy Amalek",
+            "file": "books/shmuel-stories-the-fall-of-shaul/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Tearing of the Cloak",
+            "file": "books/shmuel-stories-the-fall-of-shaul/ch05.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Shepherd King",
+        "slug": "shmuel-stories-the-shepherd-king",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Horn of Oil",
+            "file": "books/shmuel-stories-the-shepherd-king/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Smallest Son",
+            "file": "books/shmuel-stories-the-shepherd-king/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Harp in the Palace",
+            "file": "books/shmuel-stories-the-shepherd-king/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Forty Days",
+            "file": "books/shmuel-stories-the-shepherd-king/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "Five Stones",
+            "file": "books/shmuel-stories-the-shepherd-king/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "The Valley of Elah",
+            "file": "books/shmuel-stories-the-shepherd-king/ch06.mp3"
+          }
+        ]
       }
     ]
   },
