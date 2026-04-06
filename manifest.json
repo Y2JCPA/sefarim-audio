@@ -352,6 +352,73 @@
             "file": "books/shmuel-stories-the-shepherd-king/ch06.mp3"
           }
         ]
+      },
+      {
+        "name": "The Hunted",
+        "slug": "shmuel-stories-the-hunted",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Soul That Was Bound",
+            "file": "books/shmuel-stories-the-hunted/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Spear in the Wall",
+            "file": "books/shmuel-stories-the-hunted/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Arrows and the Field",
+            "file": "books/shmuel-stories-the-hunted/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "The Massacre at Nov",
+            "file": "books/shmuel-stories-the-hunted/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Cave of Adullam",
+            "file": "books/shmuel-stories-the-hunted/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "The Corner of the Cloak",
+            "file": "books/shmuel-stories-the-hunted/ch06.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The End of an Era",
+        "slug": "shmuel-stories-the-end-of-an-era",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "The Death of a Prophet",
+            "file": "books/shmuel-stories-the-end-of-an-era/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "The Wise Woman of Carmel",
+            "file": "books/shmuel-stories-the-end-of-an-era/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "The Witch of Endor",
+            "file": "books/shmuel-stories-the-end-of-an-era/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "Tomorrow You and Your Sons",
+            "file": "books/shmuel-stories-the-end-of-an-era/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "The Fall of Gilboa",
+            "file": "books/shmuel-stories-the-end-of-an-era/ch05.mp3"
+          }
+        ]
       }
     ]
   },
