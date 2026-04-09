@@ -1,0 +1,291 @@
+Chapter Three
+
+The Water of Beit Lechem
+
+It was the dry season.
+
+The exact year is not preserved in the Tanach, but the mefarshim place the episode somewhere in the middle of the early wars — probably during the second or third campaign against the Pelishtim, after the initial conquest of Yerushalayim but before the bringing up of the Aron. David was no longer the young fugitive of the cave of Adullam; he was the king of Israel, with an army and a capital and a council of advisors. But he was also still a soldier. He was still leading his men in the field. And in this particular campaign, the Pelishtim had pushed deep into the hill country of Yehuda and had taken up a position in one of the most personally painful places they could have chosen: in the valley of Refa'im, and — worse — with a garrison in Beit Lechem.
+
+Beit Lechem.
+
+The town of David's birth. The town where his father Yishai had kept his sheep. The town where Shmuel had come, in the days of David's boyhood, with a horn of oil and had anointed him in the courtyard of his father's house while his older brothers looked on with confused resentment. The town whose gate he had run out of as a boy to fight Goliath. The town whose wells he had drunk from every day of his childhood. The town whose dust was in his blood.
+
+And now the Pelishtim had placed a garrison there.
+
+The specific detail the Tanach preserves is that David and his men were encamped in a stronghold — perhaps in the cave of Adullam again, perhaps in some other wilderness hideout nearby — while the Pelishtim held Beit Lechem. David could see the town from where he was camped. He could see the gate. He could see, perhaps in his memory if not with his actual eyes, the well that stood just inside the gate of the town, the well from which he had drunk water as a boy on a thousand summer afternoons. It was the well of his childhood. And he could not go to it, because the town was occupied by the enemy.
+
+The Tanach records what happened next in two verses so tight that the entire encounter fits into less space than most of the paragraphs in this chapter:
+
+"And David longed, and said: Who will give me water to drink from the well of Beit Lechem, which is at the gate? And the three mighty men broke through the camp of the Pelishtim, and drew water from the well of Beit Lechem that was at the gate, and took it, and brought it to David. But he would not drink thereof, and poured it out unto Hashem. And he said: Far be it from me, O Hashem, that I should do this. Shall I drink the blood of the men who went in jeopardy of their lives? Therefore he would not drink it. These things did the three mighty men."
+
+Read those two verses carefully.
+
+David said, Who will give me water to drink from the well of Beit Lechem?
+
+Three men — three of the Gibborim, probably but not certainly the same three of Chapter Two (the Masoretic text is slightly ambiguous on whether the water-drawers were the named Three or a different unnamed three) — took the statement as a command. They stood up from the firelight. They walked out of the camp without waiting for any further explanation. They crossed the terrain between David's stronghold and the occupied town. They broke through the Pelishti perimeter. They reached the well. They drew water. They turned around and broke back through the Pelishti perimeter in the opposite direction, carrying the water with them. They returned to David. They handed him the water.
+
+And David poured it out on the ground.
+
+He would not drink it. He would not drink the water his men had just risked their lives to bring him. He poured it out before Hashem as a drink-offering. He said the thing that the Tanach preserves word for word: Far be it from me, O Hashem, that I should do this. Shall I drink the blood of the men who went in jeopardy of their lives? He treated the water as if it were the blood of the three men — as if the risk they had taken had infused the water with a sacred quality that made it no longer appropriate for ordinary human consumption. The appropriate response to that kind of water was not to drink it. The appropriate response was to pour it out as an offering.
+
+On the surface, this is one of the most beautiful small episodes in Shmuel Bet. A king who would not drink the water his men had risked their lives to bring him. A king who recognized the weight of what had been done for him and refused to take it for granted.
+
+But the rabbis read the episode differently.
+
+* * *
+
+The Gemara in Bava Kamma 60b sits in the middle of the tractate's extended discussion of the laws of aish — fire as a damager, the liability of a person who sets a fire for the damage it causes to property that was hidden inside the burning object. The laws are technical. They are the kind of thing the Sanhedrin would have discussed for hours at a time without any particular reference to biblical narrative. And then, in the middle of the discussion, the Gemara makes a characteristic move — it reaches for a biblical episode to illustrate the halachic principle, and the episode it reaches for is the episode of the water of Beit Lechem.
+
+The Gemara opens the discussion with the verse from Shmuel Bet 23:15: "And David longed, and said: Who will give me water to drink from the well of Beit Lechem, which is at the gate?" And then it asks a question that, on the surface, is bizarre.
+
+"What did David want to know?"
+
+Read that question slowly. The Gemara is not asking why was David thirsty or how did the three men accomplish the mission. It is asking what was the halachic question David was trying to answer? The Gemara has decided, before it has even fully quoted the verse, that David's statement was not a literal request for water. It was a coded request for a halachic ruling. And the Gemara's job, in the rest of the sugya, is to figure out what ruling he was looking for.
+
+The coding works like this. Water in the language of the Gemara — and in the language of much of earlier rabbinic tradition — is a standard metaphor for Torah. "Ho, everyone who thirsts, come for water," Yeshayahu had cried (Isaiah 55:1). "Let my teaching fall like rain, my words drop like dew," Moshe had sung in Ha'azinu (Devarim 32:2). "The water in the stranger's well is sweet," the Mishnah in Avot would later warn — and the stranger's well was heretical Torah. Water, in this language, almost always means Torah. And when David said "Who will give me water to drink from the well of Beit Lechem, which is at the gate?", the Gemara understood him to be saying "Who will give me a Torah ruling from the sages who sit at the gate of Beit Lechem?" — that is, from the local Sanhedrin or local court, the seat of judgment that sat at the entrance of the town in the ancient Israelite civic arrangement.
+
+David was not asking for water. David was asking for a psak — a halachic ruling.
+
+But on what question?
+
+The Gemara gives three answers.
+
+* * *
+
+The first answer is given by Rava.
+
+Rava reads the episode against the halachic background of the immediate Bava Kamma sugya. The discussion in Bava Kamma 60 is about liability for fire damage: if a person sets a fire and the fire burns a stack of grain, is he liable for the damage to items that were hidden inside the stack and that he did not know were there? The Mishnah records a disagreement between the Rabbanan and Rabbi Yehudah. The Rabbanan hold that he is exempt from liability for the concealed items — he can only be held responsible for damage to things he could see. Rabbi Yehudah holds that he is liable even for the concealed items.
+
+Rava reads David's question as a question about this exact dispute.
+
+In Rava's reading, the Pelishti garrison in Beit Lechem was using the town's grain stacks as cover. The grain stacks belonged to Jewish farmers of Beit Lechem — David's neighbors, his childhood friends, the men whose fields he had played in as a boy. The Pelishtim were hiding among the stacks, using them for concealment, making it impossible for David's army to engage the garrison without first burning the stacks. Burning the stacks would kill the Pelishtim hiding among them. But burning the stacks would also destroy the grain — and the grain belonged to Jewish farmers who were not involved in the war. The question David was asking was: am I liable for the damage to the Jewish grain if I burn the stacks to kill the Pelishtim hiding inside them?
+
+If the halacha followed the Rabbanan — exempt from concealed damage — then David could burn the stacks without penalty, and the farmers would bear the loss. If the halacha followed Rabbi Yehudah — liable for concealed damage — then David would be personally responsible for the full value of the destroyed grain, and the farmers would have a claim against him. Either ruling was possible. David needed to know which one the Sanhedrin would support before he could make the decision.
+
+This is why he asked the three men to bring him the water from the well of Beit Lechem, which is at the gate. Not actual water. Not an actual well. The ruling of the sages who sat at the gate of the town. The three men went to Beit Lechem — somehow, through the Pelishti perimeter — and consulted the local court. The court gave them a ruling. The three men brought the ruling back to David. And David, upon hearing the ruling, did not act on it — he poured it out before Hashem, the way a priest pours out a libation, because he had decided that even if the halacha technically permitted him to burn the stacks, he was unwilling to inflict that kind of loss on the Jewish farmers of his own hometown. He preferred to find a different way to dislodge the Pelishtim. The ruling was valid. But David, in his moral judgment, would not use it.
+
+Rava's reading is precise and technical. It reads the entire episode as a footnote to the Mishnah's dispute about fire liability. It locates David's anguish not in his thirst but in his halachic uncertainty.
+
+* * *
+
+The second answer is given by Rav Huna.
+
+Rav Huna's reading is adjacent to Rava's but shifts the question slightly. In Rav Huna's version, the question David was asking was not about Rabbinic liability for damage to concealed property. It was about something more fundamental: may a person destroy his own property — or the property of his people — to save his own life?
+
+The specific situation Rav Huna imagines is this. The Pelishtim were hiding in the Jewish-owned barley stacks in Beit Lechem. The stacks were in the path that David would need to take if he wanted to advance his army against the Pelishti garrison. If David burned the stacks, he could clear the path and destroy the Pelishtim hiding inside them in a single operation. But the stacks belonged to the Jewish farmers of the town. David would be destroying his own people's grain — not as collateral damage from an unrelated fire, but as a deliberate tactic to save his own life and the lives of his men.
+
+The question was: is that permitted?
+
+The general rule, in Rabbinic halacha, is that a person may not destroy someone else's property to save his own life. Mai chazit de-dama didakh sumaka tefei — dilma dama de-haheu gavra sumaka tefei. "What makes you think your blood is redder than his?" A person whose life is threatened may defend himself, but he may not save himself at the direct expense of another person. If the only way to save his own life is to destroy another Jew's property, he must weigh the two losses carefully — and in general, property damage is not permitted as a tactic for self-preservation.
+
+But there is an exception. A king has different rules. A king is permitted to breach property lines, to requisition resources, to destroy buildings that stand in the path of his army — because the king's operations are not private self-preservation but public defense. The Rambam in Hilchot Melakhim 5:3 codifies this rule: the king has the right to break down walls to make a path for himself, and no one may protest. A private person cannot do it. A king can.
+
+Rav Huna reads David's question as: am I, in this situation, acting as a private person or as a king? The ambiguity is real. David was the king, but he was also directly and personally responsible for the safety of his men in this particular engagement. Was he making a royal decision (in which case the rule permitting the breaking down of walls would apply) or a private decision (in which case it would not)? The three men went to the sages of Beit Lechem and brought back the ruling: David was the king, and the rule permitting the king to break down walls for military purposes applied in this case. David could burn the stacks.
+
+But David — again, as in Rava's reading — poured the ruling out before Hashem. He would not act on it. Even though the Sanhedrin had ruled in his favor, he was unwilling to destroy the grain of the farmers of his hometown. He preferred to dislodge the Pelishtim some other way. The ruling was correct, but David was not willing to use the king's privilege to benefit himself at the expense of his own people's property.
+
+Rav Huna's reading adds a moral dimension that is not quite present in Rava's. Rava's David is worried about a technical halachic liability. Rav Huna's David is worried about the larger question of the limits of royal power — the question of whether the king's exemption from the ordinary rules is a privilege that should be exercised or a privilege that should be held in reserve except when absolutely necessary. Rav Huna's David is refusing to be the kind of king who uses his exemptions. He would rather suffer the military inconvenience than take advantage of a rule that would leave a Jewish farmer holding the cost.
+
+* * *
+
+The third answer is given by the Rabbanan in the name of Rabbah bar Mari.
+
+This is the reading that most later commentators regard as the central reading of the sugya, and it is the most elaborate of the three. In Rabbah bar Mari's version, the field near Beit Lechem contained two different kinds of stacks standing side by side. One set of stacks was barley, and the barley belonged to Jewish farmers. The other set of stacks was lentils, and the lentils belonged to the Pelishtim — perhaps confiscated from Jewish farmers in an earlier raid, perhaps planted by Pelishti settlers who had pushed into the territory, perhaps simply stored there by the garrison as supplies.
+
+David's army needed fodder for its horses and pack animals. The natural thing to do would be to feed the animals from the barley stacks. But the barley stacks were Jewish property, and David could not simply take them without compensation. The lentil stacks were Pelishti property, and under the rules of war they were fair game — David could take the lentils and feed them to his animals without owing anything to anyone.
+
+But there was a problem. Horses do not eat lentils. Lentils are not a fodder crop. If David tried to feed his animals from the lentil stacks, the animals would not eat, and the army would lose its mobility. The barley, on the other hand, was exactly what the animals needed. The barley was right there. But the barley belonged to Jewish farmers.
+
+The question David was asking was: can I take the barley from the Jewish farmers and use it to feed my horses, on the condition that I compensate the farmers with the value of the Pelishti lentils that I am permitted to confiscate? In other words, can I swap — taking the Jewish barley for my use, and giving the farmers the Pelishti lentils as payment, even though the two items are not equivalent in kind?
+
+This is a subtle halachic question. Ordinarily, a person cannot compel another Jew to accept payment in kind rather than in money for property that has been taken from him. If I damage your ox, I owe you the value of the ox in silver; you cannot compel me to give you a different ox as payment unless you specifically agree to the substitution. Similarly, if David took the Jewish barley without permission, he would ordinarily owe the farmers the monetary value of the barley, not a quantity of Pelishti lentils.
+
+But there was a possible out. If David, as king, had the right to take the lentils from the Pelishtim under the rules of war, then the lentils were — in some sense — already his. He could then offer the lentils to the farmers as compensation, not as a forced substitution but as a voluntary payment from the king's own stores. If the farmers accepted the lentils as payment, the transaction would be complete. If they refused, David would still owe them the monetary value of the barley.
+
+The question for the Sanhedrin was: is this kind of king-mediated substitution permitted? Can the king take the Jewish barley, offer the Pelishti lentils as compensation, and rely on the farmers' acceptance of the offer to clear the debt?
+
+The three men went to Beit Lechem. They consulted the sages. They brought back the ruling. The ruling, according to the Gemara, was that the transaction was permitted — the king could take the barley and offer the lentils as compensation, and if the farmers accepted, the matter was closed. David had the halachic authority to do it.
+
+And David — for the third time in the sugya — poured the ruling out on the ground. He would not act on it. Even though the sages had ruled in his favor, he was unwilling to impose the transaction on the farmers of Beit Lechem. He preferred to solve the fodder problem some other way.
+
+* * *
+
+Three readings. One episode. Three different halachic questions, each one a legitimate reading of the Tanach's cryptic verse.
+
+The question the rabbis of the sugya raise — and that the Rishonim and later commentators have wrestled with for centuries — is why the Tanach encodes the halachic question in the metaphor of water. Why not state the question directly? Why turn the whole thing into a riddle?
+
+The mefarshim offer several answers. The Maharsha on Bava Kamma 60b suggests that the Tanach deliberately obscures the halachic content because the actual content — whether a king can burn Jewish-owned barley, whether a king can compel a forced substitution of payment kinds — is the kind of content that would make any reader uncomfortable if it were stated baldly. The metaphor of water allows the reader to feel the emotional weight of the episode (a king refusing to drink water his men had risked their lives to bring him) before confronting the harder underlying question (a king refusing to exercise his halachic privileges at the expense of his people's property). The emotional weight prepares the reader for the legal weight.
+
+The Ben Ish Chai reads the metaphor differently. For him, the water is Torah, and the well at the gate is the Sanhedrin, and the three men who break through to bring the water are three scholars who physically risked their lives to reach the sages in an occupied town to bring back a ruling. The risk was not primarily military. The risk was the spiritual risk of consulting on a question whose answer might not be the answer the king wanted. The three men went in, knowing that David's own preference was to be told "no, you cannot burn the stacks." The sages, if they ruled honestly, might say "yes, you can." The three men would then have to carry the unwelcome ruling back to the king. The pouring out of the water on the ground was David's recognition that the ruling had come at a real cost — not just the physical cost of the journey through the Pelishti lines, but the spiritual cost of asking a question whose answer forced David into a moral bind he would rather have avoided.
+
+And a third reading, preserved in the aggadic tradition and picked up by the Malbim, reads the episode as a model of the right relationship between a king and his counselors. The king asks. The counselors answer honestly, even if the honest answer is not the answer the king hoped for. The king receives the answer with respect, acknowledges its validity, and then — if he chooses — sets it aside on moral grounds that go beyond the formal halachic question. The king's power to set aside a ruling is not a power to overrule the Torah. It is the power to refuse to take advantage of a ruling when the ruling would let him do something that would be technically permitted but morally unbecoming. David's pouring out of the water was the exercise of this power. He was saying: the sages have ruled. I hear the ruling. I am not going to act on it. The kind of king I want to be is not the kind of king who would.
+
+* * *
+
+Whether we accept Rava's reading, or Rav Huna's, or Rabbah bar Mari's — the basic shape of the episode is the same. Three men risked their lives. David refused to benefit from the risk. And the Tanach preserved the refusal as one of the defining moments in David's character.
+
+But the mefarshim all agree on one thing: the episode has a simpler and earlier layer beneath the halachic reading. At the simplest level, the story is also literally what it says it is. Three men broke through an enemy garrison to bring their king a drink of water from the well of his childhood, and the king — recognizing the weight of what they had done — refused to drink the water and poured it out as an offering to Hashem. The literal reading and the halachic reading coexist. The literal reading gives us the emotional core of the episode. The halachic reading gives us the intellectual depth. Both are true. Both are preserved side by side in the rabbinic tradition.
+
+* * *
+
+Let us return, for a moment, to the literal level.
+
+The three men had been sitting by a fire. The night was cold. The fire was small — a single ring of stones in the middle of a wider encampment, with perhaps a dozen men sleeping in rolls of cloth around the edges and the three Gibborim sitting on stones near the flames. One of them was whittling a stick. Another was tending to a small wound on his forearm. The third was eating strips of dried meat from a leather pouch.
+
+David was sitting a short distance away, alone, on a stone that overlooked the hill country to the west. He could see the town of Beit Lechem from his stone. The town was lit from inside by the fires of the Pelishti garrison. He could make out the shape of the gate, the low wall around the well, the cluster of houses near the north side of the market square. He had not seen the town in years. He had not drunk from its well in longer than he could easily remember.
+
+He said it quietly, almost to himself.
+
+"Mi yashkeni mayim mi-bor Beit Lechem asher ba-sha'ar."
+
+"Who will give me water to drink from the well of Beit Lechem, which is at the gate."
+
+The three men at the fire heard him. The man whittling the stick stopped whittling. The man tending the wound looked up. The man eating the meat set down the strip and looked at the other two.
+
+"Did the king say what I think he said?"
+
+"He said it."
+
+"He wants water from the well of Beit Lechem?"
+
+"That is what he said."
+
+"The well of Beit Lechem is inside the town. The town is occupied."
+
+"I know. I heard him."
+
+"So what are we doing?"
+
+"We are going to get him the water."
+
+"How?"
+
+"Through the camp. There is no other way. We go through the Pelishti perimeter, into the town, to the well, draw the water, and come back."
+
+"Through eight hundred Pelishti soldiers."
+
+"Through whatever is between us and the well. The number does not matter. If it is eight hundred we go through eight hundred. If it is eight thousand we go through eight thousand. The well is the well. The king wants the water from that well. We are going to get him the water from that well."
+
+"Tonight?"
+
+"Tonight. If we wait, we will find reasons to not go. The only way to do this is to go before we can think about it."
+
+The second man stood up.
+
+"Weapons?"
+
+"Only what we are carrying. No shields. No helmets. We are going to move fast, not to fight a battle. If we meet resistance, we run past it. We do not engage. We are going to the well and back."
+
+The third man stood up.
+
+"Water bag?"
+
+"One. I will carry it. You two take the lead and the rear. I will be in the middle with the bag. If one of us falls, the other two keep going. If two of us fall, the third finishes the mission and returns to the king. Under no circumstances do we turn back without the water."
+
+"Agreed."
+
+"Agreed."
+
+They walked quietly out of the firelight.
+
+* * *
+
+The journey to Beit Lechem and back is not described in the Tanach in any detail. The Tanach says only that they broke through the Pelishti camp — the verb is vayiv'ku, "they split," "they cleaved," "they broke through" — and that they drew the water from the well at the gate and returned with it to David. Everything else is left to the imagination of the reader.
+
+The mefarshim fill in different details. The Radak imagines a night assault in which the three men, moving in total silence, slipped through gaps in the Pelishti sentry line by walking in the shadows between fires. The Ralbag imagines a more aggressive version in which the three men were spotted by a Pelishti sentry and had to kill him quickly to avoid raising the alarm. The Malbim imagines them moving in a wider arc around the edge of the Pelishti encampment, entering the town from a side that was less heavily guarded, reaching the well by a circuitous route. All of these are speculative.
+
+Imagine the moment at the well itself. The three men have made it through the perimeter. They are inside the town. The streets of Beit Lechem are dark. The Pelishti garrison has its main camp in the open square in front of the gate, but the well itself is set back in a small courtyard just inside the wall, and the courtyard is empty at this hour. The three men reach the well. The lead man crouches at the rim and listens.
+
+"Anyone?"
+
+"No one nearby. Two sentries on the wall above us. They are not looking down."
+
+"Lower the bag."
+
+The middle man unspools a length of cord from around his waist. He ties one end to the mouth of the leather water bag. He lowers the bag slowly into the well. The other two men watch the sentries.
+
+"Filling."
+
+"Quietly."
+
+"It is filled. Pulling up."
+
+The bag comes up. Water is dripping from the sides. The middle man unties the cord and seals the mouth of the bag and slings it over his shoulder.
+
+"Got it. Let us go."
+
+"Same way back?"
+
+"Same way back. Through the gap by the third sentry post. Move."
+
+They went out the way they had come in, and they were back at David's stronghold before the first light of dawn.
+
+They came back in the early hours of the morning — perhaps an hour before sunrise, when the sky was just beginning to lighten in the east but the stars were still visible overhead.
+
+David was still awake. He had been unable to sleep. He was sitting on the same stone where he had been sitting when he had spoken aloud about the water. He heard the three men approaching before he saw them. He looked up.
+
+The man in the lead was carrying the water bag.
+
+He walked up to David and held it out.
+
+"My lord."
+
+"What is this?"
+
+"The water of the well of Beit Lechem. From the well at the gate. We have brought it to you."
+
+David stared at him.
+
+"You went to Beit Lechem? Through the Pelishti lines?"
+
+"Yes, my lord."
+
+"All three of you?"
+
+"All three of us. None of us was hurt. The water is cold. The well is still the same well."
+
+David took the bag in his hands.
+
+He held it for a long moment. He did not open it. He did not drink from it. He looked from the bag to the man who had brought it, and from the man to the other two standing behind him, and from the three men to the camp where the rest of the army was still sleeping, and from the camp to the eastern sky where the first light of dawn was just beginning to appear.
+
+Then he stood up.
+
+He walked to a small clear space on the stone in front of where he had been sitting. He opened the bag. He held it up in front of him, turned toward the east, and poured the water slowly out onto the stone, letting it run down over the edge and into the dirt.
+
+He spoke as he poured.
+
+"Chalilah li, Hashem, me-asoti zot."
+
+Far be it from me, Hashem, that I should do this.
+
+"Ha-dam ha-anashim ha-holkhim be-nafshotam?"
+
+Shall I drink the blood of the men who went in jeopardy of their lives?
+
+The three men watched in silence as the water ran out of the bag and disappeared into the ground at David's feet. None of them spoke. None of them protested. They were not hurt by the pouring. They understood what David was doing. He was telling them, in the language of drink-offerings, that what they had brought him was too sacred to drink — that the risk they had taken had transformed the water into something like a libation, and that the only appropriate response to a libation was to pour it out to Hashem.
+
+When the bag was empty, David handed it back to the man who had brought it.
+
+"Thank you."
+
+"My lord."
+
+"I will not forget this. As long as I am alive. As long as I am a king of Israel."
+
+"My lord — we know."
+
+David nodded.
+
+The three men turned and walked back to the fire. They sat down in the same positions they had been in before. The man who had been whittling the stick picked up the stick again. The man who had been tending the wound unwound the bandage to check it. The man who had been eating the meat took another strip from the pouch.
+
+None of them spoke about what had just happened. They did not need to. They had been the three. The king had wanted something. They had gone and gotten it. The king had not drunk it. The king had poured it out as an offering. The whole cycle of the thing — the wanting, the getting, the not-drinking, the pouring — was a single complete act that had been carried out according to its own internal logic. The three men understood the logic without needing it explained.
+
+The Tanach closes the episode with a single sentence that has been read by generations of Jewish commentators as one of the most quietly proud sentences in all of Shmuel Bet: "These things did the three mighty men."
+
+Eleh asu shloshet ha-gibborim.
+
+The sentence is the Tanach's version of a standing ovation. It is the narrator stepping back from the action for a single beat and saying: look at them. Look at what they did. These three men — these three, who a few decades earlier were probably among the bitter-of-soul who had come to David in the cave of Adullam — grew up to be the kind of men who would walk into an occupied town in the dark to bring their king a drink of water and then walk back without asking for thanks. These things did the three mighty men.
+
+It is a sentence that, once you hear it properly, stays with you for the rest of your life.
+
+* * *

@@ -1,0 +1,455 @@
+Chapter Four
+
+Benayahu ben Yehoyada — Ben Ish Chai
+
+No warrior in all of Tanach is surrounded by so much rabbinic commentary as Benayahu ben Yehoyada.
+
+The Three were preserved in a few terse verses of signature deeds. The rest of the Thirty were preserved in a list of names and parentage, sometimes with a phrase or two of description. Yoav and Avishai were the family insiders whose stories were woven into the main narrative. Uriah — the man whose name appears at the end of the register — is preserved in a single devastating mention that we will return to in the final chapter of this volume.
+
+But Benayahu ben Yehoyada is different.
+
+Benayahu has a one-verse résumé in Shmuel Bet 23 that the Tanach itself treats as insufficient. The verse is this: "And Benayahu ben Yehoyada, a valiant man of many deeds, from Kavtze'el — he struck down the two lion-hearted men of Moav, and he went down and struck down the lion in the midst of the pit on the day of the snow." Every single clause in that verse — valiant man of many deeds, from Kavtze'el, the two lion-hearted men of Moav, the lion, the pit, the day of the snow — is unpacked by the rabbinic tradition into multiple layers of meaning. Each phrase becomes a portal into a different corner of Benayahu's life. Each reading assumes that every word of the verse is a clue to something more than what the verse appears to say on the surface.
+
+And then the verse continues: "And he struck down an Egyptian, a striking man. In the hand of the Egyptian was a spear, and Benayahu went down to him with a staff, and he snatched the spear from the hand of the Egyptian and killed him with his own spear." More material. More rabbinic unpacking. Another set of layers.
+
+The result is that Benayahu, almost alone among the Gibborim, has a full spiritual biography preserved across the rabbinic sources — a biography that touches on the cave of Adullam and the wars of David, but also on the Sanhedrin, the study of Torat Kohanim, the spiritual discipline of immersing in a frozen mikveh, the command of Shlomo's army after David's death, the capture of Ashmedai king of the demons, the building of the Beit HaMikdash, the execution of Yoav at the horns of the altar, and the revelation of Benayahu's own grave to Rabbi Chaim Vital by the Arizal more than two thousand years later.
+
+This chapter is about that biography.
+
+We begin with the verse. Then we move through the layers. Then we follow Benayahu forward through the rest of his life into the reign of Shlomo, where the most extraordinary stories are told. Then we return at the end to the Tanach's quiet note in the closing register of Shmuel Bet — and Benayahu ben Yehoyada was over the Kreti and the Pelti — and we try to account for why a single warrior of David's army became the subject of so much sustained rabbinic love.
+
+* * *
+
+## The Verse
+
+U-venayahu ben Yehoyada ben ish chai, rav pe'alim mi-Kavtze'el, hu hikkah et shnei ari'el Moav, ve-hu yarad ve-hikkah et ha-ari be-toch ha-bor be-yom ha-sheleg.
+
+"And Benayahu ben Yehoyada, ben ish chai, rav pe'alim mi-Kavtze'el, he struck down the two ari'el of Moav, and he went down and struck down the lion in the midst of the pit on the day of the snow."
+
+Let us take the phrases one at a time.
+
+### Ben ish chai — Son of a living man
+
+The phrase should not be surprising. Every person in Tanach is the son of a father who was at some point alive. Why does the verse bother to say that Benayahu was the ben ish chai — the son of a living man? His father's name was Yehoyada — and Yehoyada, we know from other verses, was the chief priest in the time of David. Why not simply say ben Yehoyada? Why add the phrase ben ish chai as if it were a separate honorific?
+
+The Gemara in Berachot 18a/b asks exactly this question. The answer given there has become one of the most famous teachings in the aggadah.
+
+The Gemara reads ben ish chai as the son of a living man, in a sense stronger than the ordinary sense. It means that Yehoyada — Benayahu's father — was a tzaddik, a perfectly righteous man, and the Tanach calls him alive even though he was by this point dead. The principle the Gemara is invoking is tzaddikim be-mitatan keruyim chayim — the righteous, in their death, are called alive. A righteous man does not truly die. His physical body passes away, but his spiritual presence — his teaching, his influence, his ongoing effect on the world — remains active among the living. To call him alive after his death is not a metaphor. It is a technical theological category.
+
+Benayahu was ben ish chai because his father Yehoyada was a tzaddik, and therefore Yehoyada was still spiritually alive even though he was physically dead, and therefore the proper way to identify Benayahu was as the son of a living man.
+
+The principle has echoes that ripple outward through the rest of Jewish thought. The same Gemara in Berachot brings a related teaching about the resha'im, the wicked — resha'im be-chayehem keruyim metim, "the wicked, in their lives, are called dead." The wicked are dead even while they are walking around, because their physical existence is not producing any spiritual fruit. The righteous are alive even after they have been buried, because their spiritual fruit is still ripening. The distinction between life and death, in this framing, is not biological. It is a measure of whether a person's existence is producing something that outlasts their body.
+
+And Benayahu, as ben ish chai, was the son of a man who had so fully lived the Torah that even the biological end of his life could not terminate his status as "alive." The honorific in the verse is not flattery. It is a theological claim about the nature of righteousness.
+
+This is why, roughly three thousand years later, the great sage Rabbi Yosef Chaim of Baghdad — the author of some of the most beloved halachic and kabbalistic works of the nineteenth century — would title his four major books Ben Ish Chai, Ben Ish Chayil, Rav Pe'alim, and Ben Yehoyada. Every one of those titles comes from our verse. The nineteenth-century sage felt such a powerful personal connection to the figure of Benayahu — and, according to his own testimony, understood himself to share soul-roots with Benayahu — that he named his major works after phrases from the single verse in Shmuel Bet 23 that describes this one man. A three-thousand-year-old verse became, in the hands of a nineteenth-century rabbi in Baghdad, the frame of an entire literary corpus.
+
+### Rav pe'alim mi-Kavtze'el — A man of many deeds from Kavtze'el
+
+The phrase on the surface is a biographical note: Benayahu was a man of many deeds, and he came from a town called Kavtze'el in the southern hill country of Yehuda. Kavtze'el is mentioned briefly in Yehoshua 15:21 as one of the southernmost towns of the tribal inheritance of Yehuda. It was a small town on the edge of the wilderness — not a major settlement. Benayahu was the son of a priest from this obscure place.
+
+The Gemara in Berachot 18a is not satisfied with the surface reading.
+
+The Gemara parses rav pe'alim mi-Kavtze'el homiletically: the phrase means "one who gathered many po'alim — many workers, many students — for the study of Torah." The word pe'alim is reread from "deeds" to "workers" (both meanings are possible in the Hebrew). And the town name Kavtze'el is reread as a verb — kibbetz-el, "he gathered to God" — meaning that Benayahu was a man who gathered people to God through his teaching and his scholarship.
+
+In the Gemara's reading, Benayahu was not only a warrior. He was a teacher. He was the head of a study circle. He gathered young scholars around himself and taught them Torah. The phrase rav pe'alim mi-Kavtze'el is the verse's cryptic way of telling us that Benayahu's real legacy was not the battles he won but the students he produced.
+
+And this reading becomes even more compelling when we add the information from Berachot 4a — a separate sugya in the same tractate, discussing the administrative structure of David's court. In that sugya, the Gemara tells us plainly: Benayahu ben Yehoyada was the head of the Sanhedrin. Not the head of a study circle. The head of the supreme court of seventy-one judges who sat in the Lishkat HaGazit in the Temple precincts. Benayahu was both the commander of David's personal guard (the Kreti and the Pelti, as the closing verses of Shmuel Bet 20 note) and the head of the Sanhedrin. He was a warrior and a judge. He commanded soldiers and interpreted Torah. The two roles were not in tension for him. They were a single integrated life.
+
+This is the pattern we have seen with Yoshev-baShevet in Chapter Two — the Gibborim were scholar-warriors. But in Benayahu's case, the pattern is so fully developed that the warrior side and the scholar side have equal weight. He was a great commander and a great sage. The verse in Shmuel Bet 23, in its compressed form, is trying to tell us both of these things at once. Rav pe'alim — many deeds (the warrior reading) and many students (the scholar reading). Mi-Kavtze'el — from the town of Kavtze'el (the geographical reading) and "he gathered to God" (the homiletical reading). Every word is doing double duty.
+
+### The two ari'el of Moav
+
+The plain reading of the verse is that Benayahu killed two Moabite champions — ari'el being a compound of ari, "lion," and el, "of God" or "mighty" — meaning "lion-hearted men of Moav" or "mighty men of Moav." The two men were enemy commanders. Benayahu defeated both of them in battle, perhaps on the same day.
+
+The Gemara in Berachot 18b reads this differently.
+
+Moav — in the Gemara's reading — is not just a geographical reference. Moav was the country of origin of Ruth, the great-grandmother of David and the ancestor of the Davidic line. The entire royal house of Israel descends from Moav through Ruth. And therefore "the two lion-hearted of Moav" are not two Moabite warriors. They are the two Batei HaMikdash — the two Holy Temples — both of which would eventually be built by descendants of Ruth the Moabite. The First Temple was built by Shlomo, the son of David, the descendant of Ruth. The Second Temple was built by Zerubavel, many generations later, also descended from the same royal line. Both Temples trace their genealogy through a Moabite woman. The phrase "the two lion-hearted of Moav" — shnei ari'el Moav — is the Tanach's coded way of pointing to the two Temples as the ultimate fruit of the Davidic line that descended from Moav.
+
+And in the Gemara's reading, Benayahu defeated — hikkah — the two lion-hearted of Moav. That is, he surpassed, in his Torah scholarship, every sage who lived during the period of either Temple. The Gemara adds an astonishing line: Benayahu was unequaled in Torah learning by any scholar of the First Temple period or any scholar of the Second Temple period. He was, by this measure, the greatest Torah sage of both Temple eras combined.
+
+This is a very high claim. The Gemara is placing Benayahu above every Tanna, every Amora, every sage whose name appears in the Mishnah or the Gemara. Benayahu is being positioned not as one of many great scholars but as the singular peak of Jewish scholarship across both Temples. The verse in Shmuel Bet 23 is the Gemara's proof-text for this claim.
+
+The mefarshim have wrestled with why the Gemara makes such a grand claim for a man whose explicit appearances in the Tanach are so brief. The usual answer is that the Gemara is reading the cryptic phrase shnei ari'el Moav as a hidden reference to the two Temples precisely because the phrase is otherwise strange — why call Moabite warriors "lion-hearted ones of God"? The strangeness of the phrase pushes the Gemara toward a deeper reading, and the deeper reading turns out to be a statement about Benayahu's spiritual stature.
+
+### The lion in the pit on the day of the snow
+
+This is the line that has captured the imagination of every generation that has encountered it.
+
+Hu yarad ve-hikkah et ha-ari be-toch ha-bor be-yom ha-sheleg. "He went down and struck down the lion in the midst of the pit on the day of the snow."
+
+Four details. A lion. A pit. The middle of the pit. A day of snow.
+
+The literal reading is straightforward enough. There was a lion. It had fallen into a pit — or been trapped in a pit — and the pit was somewhere in a wilderness area that Benayahu had to travel through. The day was a day of snow. The hill country of Yehuda does get snow occasionally — not often, but in some winters, a heavy snowfall will cover the higher elevations around Chevron and Yerushalayim for a few days at a time. On this particular day, there was snow on the ground. There was a lion in a pit. Benayahu encountered the pit. He went down into the pit. He killed the lion.
+
+The physical feat is extraordinary. A lion, even a trapped lion, is an extremely dangerous animal. A man descending into a pit with a lion is in close quarters with an enemy that has sharper teeth and sharper claws and faster reflexes than any human. The confined space of the pit works against the man, because he cannot maneuver. The snow on the ground and along the walls of the pit makes footing treacherous. The cold dulls the hands. The reduced light in the pit makes aim difficult. By any ordinary measure, descending into a pit to kill a lion on a snowy day is a suicidal act.
+
+Benayahu did it anyway. And he came out alive.
+
+The Gemara in Berachot 18a/b unpacks the line in three different directions.
+
+First reading (Rashi): the literal reading. Benayahu fought a physical lion in a physical pit on a physical snowy day. The Gemara, in this reading, does not allegorize the event. It simply marvels at the feat. Rashi adds the detail that the snow made the pit more dangerous because the walls were slick and the footing was unreliable. Benayahu's physical courage in this moment is, by itself, enough to justify his inclusion in the list of the Gibborim.
+
+Second reading (the Sifra reading): Benayahu broke the ice and descended into it to immerse in the frozen mikveh so that he could study Torah in purity. This is one of the most beloved rabbinic readings in all of the aggadah. In this reading, the "pit" is not a lion-pit but a natural mikveh — a ritual immersion pool fed by rainwater. The "lion" is not a physical lion but the yetzer hara, the evil inclination, which lurks in the depths of the body and must be conquered before a person can study Torah in a state of ritual purity. Benayahu, the reading goes, was so committed to studying Torah in purity that on the coldest day of the year — the day of snow — when most people would have said that the ordinary obligation to immerse did not apply under such extreme conditions, he broke the ice on the frozen mikveh, descended into the freezing water, and immersed. He then emerged from the ice and went straight to the study hall to learn Torah. The "killing of the lion" was the conquering of the evil inclination through the physical discipline of the freezing immersion and the subsequent Torah study.
+
+The beauty of this reading is that it transforms a military heroic act into a spiritual heroic act without losing any of the physical intensity. The man who physically broke through a Pelishti army line to get water from a well (as the three did in the previous chapter) is now paired with the man who physically broke through ice to get into a mikveh to study Torah. Both are acts of extreme physical commitment in the service of something larger than the self. Both require a kind of bodily courage that most people cannot muster. Both are preserved in the rabbinic memory as the highest expressions of what a Jewish warrior could be.
+
+Third reading (the Torat Kohanim reading): Benayahu studied the entire Sefer Torat Kohanim — the Sifra, the halachic midrash on the book of Vayikra — in a single short winter day. In this reading, "the day of the snow" is the literal short day of winter, when the sun rises late and sets early and the hours of daylight are shortest. "The pit" is the study hall — the deep chamber in which the scholar descends into the text. "The lion" is the entire body of Torat Kohanim, a vast work of laws and derivations and exegetical principles, which is traditionally considered one of the most difficult texts in the rabbinic canon because of its compression and technicality. Benayahu, the reading goes, was so fluent in Torat Kohanim that he could read and master the entire work between sunrise and sunset on the shortest day of the year. The "killing of the lion" was the completion of the Sifra.
+
+The Torat Kohanim reading reinforces Benayahu's identity as a scholar. It takes a verse that on the surface describes a battle with a wild animal and reads it as a description of a spectacular feat of Torah learning. And the choice of Torat Kohanim specifically is not random. The Sifra was the foundational halachic work on Vayikra — the book of priestly laws, the book of purity and impurity, the book of the sacrifices. Benayahu was ben Yehoyada ha-Kohen — the son of Yehoyada the priest. He had a priestly lineage. His study of Torat Kohanim in a single day was the son of a priest mastering the foundational text of the priesthood in record time.
+
+All three readings — the physical lion, the frozen mikveh, the Torat Kohanim marathon — are preserved side by side in the Gemara without being treated as competing theories. The Gemara treats them as layered meanings. Benayahu did all three. He was the kind of man for whom all three were simultaneously true. He fought a physical lion in a pit on a snowy day; he also broke ice to immerse in a freezing mikveh for Torah purity; he also completed the entire Torat Kohanim in a single short winter day. The verse in Shmuel Bet 23 is compressed enough to carry all three meanings, and Benayahu was great enough to have earned all three readings.
+
+Imagine the literal version. Benayahu is traveling alone in the hill country south of Yerushalayim on a winter morning. There is snow on the ground — not deep, but enough to make the rocks slippery and the footing treacherous. He comes around a bend in the path and sees a pit beside the road. The pit is one of the cisterns that the farmers of Yehuda dig into the limestone to collect rainwater for their flocks. It is empty in winter. It is about the depth of two men.
+
+He hears a sound from the pit.
+
+He stops. He listens. The sound is the low coughing growl of a wounded lion. The lion has fallen into the pit — perhaps slipped on the snow, perhaps was driven into the pit by the cold and was unable to climb out. It is hurt and it is angry and it is trapped.
+
+A normal traveler would have walked past the pit and continued on his way. The lion was not a threat to anyone outside the pit. The lion would die on its own, in a day or two, from the cold and the wounds. There was no obligation to deal with it.
+
+Benayahu walked to the edge of the pit and looked down.
+
+The lion was a full-grown male. Its eyes met his. The lion let out a sound that was halfway between a roar and a cough — the sound of a wounded predator that knew it could not defend itself but was warning the human anyway.
+
+Benayahu spoke aloud to himself.
+
+"If I leave it, it will die slowly. Two days, perhaps three. That is not a death an animal of this size should die."
+
+He looked around. There was no one else on the road. The decision was his alone.
+
+"And if I leave it and a child from one of these villages comes by tomorrow and looks into the pit, the child will not understand what is in there. The child might fall in. The child might be killed by the lion before the lion finishes dying."
+
+He set down his pack. He drew his sword. He climbed to the edge of the pit.
+
+"All right. Let it be done quickly."
+
+He jumped down into the pit.
+
+The fall was about ten feet. He landed in a crouch on the snow at the bottom. The lion was three paces away from him. He did not give the lion time to react. He moved forward in a single step, swung the sword in one motion, and struck the animal at the base of the skull. The lion went down in a heap. He waited for a long moment to make sure the animal was dead. Then he climbed out of the pit using the rough handholds in the limestone wall, picked up his pack, and continued on his way.
+
+It was the kind of thing he did. He did not tell anyone about it for years. The story only became known much later, when one of the local farmers noticed the dead lion in the pit and asked around the villages for the man who had killed it, and one of Benayahu's traveling companions — who had been a few hundred paces behind him on the road and had heard the lion's death roar — eventually identified Benayahu as the killer. The story spread from the village to the army camp and from the army camp to the court and from the court to the historical record, and by the time the Tanach was compiled it was preserved in a single line: And he went down and struck down the lion in the midst of the pit on the day of the snow.
+
+The kind of thing he did. The kind of man who would jump into a pit on a snowy day to kill a wounded lion to spare an unknown child from possible danger and to give the animal a clean death rather than a slow one. The kind of man whose verse in Shmuel Bet 23 becomes a portal in the rabbinic tradition into three different layers of meaning, because the literal level is already so extraordinary that the rabbis assume there must be more underneath.
+
+### The Egyptian with the spear
+
+The next verse continues: "And he struck down an Egyptian, a striking man. In the hand of the Egyptian was a spear, and Benayahu went down to him with a staff, and he snatched the spear from the hand of the Egyptian and killed him with his own spear."
+
+The Divrei HaYamim parallel at 1 Divrei HaYamim 11:23 adds a detail: the Egyptian was five cubits tall — roughly seven and a half feet — and the spear he carried was like a weaver's beam. The Egyptian was a giant in the same physical class as Goliath. Benayahu, by contrast, was a man of ordinary stature. And yet Benayahu walked up to the giant with nothing but a wooden staff — not a spear, not a sword, not a shield — and in a single movement he disarmed the giant, took the giant's own weapon, and killed him with it.
+
+The mefarshim treat this as an exact literary parallel to David's killing of Goliath in Shmuel Aleph 17. In both cases, a smaller Israelite warrior approached a giant Egyptian-adjacent enemy with an inferior weapon, defeated the giant with a single decisive move, and then finished the giant off with the giant's own weapon. David, after felling Goliath with the stone, used Goliath's own sword to cut off Goliath's head. Benayahu, after disarming the Egyptian with the staff, used the Egyptian's own spear to kill him. The pattern is identical.
+
+The literary parallel is intentional. The book of Shmuel Bet is telling us that Benayahu was, in some meaningful sense, David's successor in this particular style of combat — the style of the small man defeating the giant with the giant's own weapon. David had done it once, as a boy, against Goliath. Benayahu, who served under David, did it again, as an adult, against the Egyptian. The pattern was the signature of the whole Davidic military tradition: the Israelite warrior defeats the enemy not by matching the enemy's strength but by turning the enemy's strength against him.
+
+Imagine the moment.
+
+The Egyptian was standing in an open space — perhaps a clearing in a wadi, perhaps a low place in the road between two villages. He was seven and a half feet tall. His spear was the size of a young tree. He was waiting for the Israelites to approach him, the way a man waits when he is sure of the outcome.
+
+Benayahu walked toward him alone. His own men were behind him at a distance, watching. He carried only a wooden staff — the kind of staff a shepherd or a traveler carries, not the kind of staff a warrior carries into a duel.
+
+The Egyptian saw him coming. He laughed.
+
+"You bring a stick to fight me?"
+
+"I bring what I have."
+
+"Where is your spear, little Israelite?"
+
+"I do not need a spear. You have a spear. That will be enough."
+
+The Egyptian laughed again. He raised the spear. He took a step forward.
+
+"Come, then. Come close. I will show you what an Egyptian spear does to a man with a stick."
+
+Benayahu came close.
+
+He did not stop at the distance a normal duelist would have stopped at. He kept walking — past the point where the Egyptian's spear could be brought to bear with full force, past the point where the giant's longer reach would be an advantage, into the close space where the spear's length became a disadvantage rather than an advantage. The Egyptian, realizing too late what was happening, tried to step back. Benayahu was already inside the spear's effective range.
+
+In a single motion, Benayahu brought his staff up under the giant's wrist — not a strike, but a leverage move, the kind a practiced wrestler uses to break a grip. The giant's hand spasmed open. The spear fell out of his grip. Benayahu caught it before it hit the ground.
+
+The Egyptian stared at his empty hand.
+
+"You — "
+
+Benayahu reversed the spear in a single fluid movement and drove it through the giant's chest. The point came out the other side. The giant fell forward. Benayahu stepped back to let him fall and pulled the spear out of his body and let it rest on the ground beside him.
+
+The whole encounter had taken perhaps three seconds.
+
+Benayahu's men, watching from the distance, walked forward in silence. None of them said anything at first. They had expected to see Benayahu killed. Most of them had been preparing themselves to charge in and avenge him. Instead they saw him standing over the body of the giant, holding a spear that had been in someone else's hand thirty seconds earlier.
+
+One of them finally spoke.
+
+"My lord — how?"
+
+"He thought the spear was his weapon. The spear was the weapon. He was just the man holding it."
+
+"But — "
+
+"If you ever face a man bigger than you, do not match his weapon. Take his weapon. He will not know what to do without it. He has spent his whole life thinking the weapon was his strength. The moment you have it and he does not, he is finished."
+
+Benayahu wiped the spear on the dead man's cloak and handed it to the soldier.
+
+"Bring it back to camp. We will keep it as a trophy. The next time we face an Egyptian, the men should remember that even a giant can be disarmed."
+
+The Ben Ish Chai, in his commentary on the verse, reads the episode as a paradigm of how the yetzer hara is to be defeated. The evil inclination, in the Ben Ish Chai's reading, is the giant. Its weapons are the desires and impulses that the evil inclination uses to overpower the ordinary person. The ordinary person comes armed only with a wooden staff — the staff of Torah, which is physically inferior to the weapons of the evil inclination. But the truly skilled person does not try to match the evil inclination with equivalent force. The truly skilled person takes the weapon out of the evil inclination's hand and uses it against the evil inclination. Desire can be redirected into love of mitzvot. Ambition can be redirected into the pursuit of Torah. The very drives that the yetzer hara tries to use for its own purposes can be seized by the tzaddik and turned into instruments of service. Benayahu's disarmament of the Egyptian is the physical model of this spiritual feat.
+
+* * *
+
+## Benayahu in the court of David
+
+The verses we have been discussing are the résumé. They tell us who Benayahu was in terms of his signature deeds. But the Tanach also tells us, in quieter verses scattered across the closing chapters of Shmuel Bet and the opening chapters of Melakhim Aleph, what role Benayahu played in the administration of the kingdom.
+
+The closing register of Shmuel Bet 20:23 — the same register we closed Volume V with — lists the officers of David's court:
+
+Yoav was over all the host of Israel.
+
+Benayahu ben Yehoyada was over the Kreti and the Pelti.
+
+The Kreti and the Pelti were David's elite personal guard — the small corps of professional soldiers who accompanied the king at all times, who fought in every major engagement of the Davidic wars, and who were responsible directly for the king's personal safety. The name Kreti is thought to come from Krete (the island of Crete), and the name Pelti from Pelishti (Philistine), suggesting that the corps was originally composed of foreign mercenaries — men from the sea-peoples of the eastern Mediterranean who had entered David's service during the years in Gat and had remained loyal to him through the campaigns of the kingdom. The Kreti and the Pelti were not Israelites. They were the foreign core of David's elite force — the highest-paid, best-trained, most professional soldiers in the kingdom.
+
+And Benayahu — an Israelite, a priest's son from Kavtze'el, the head of the Sanhedrin — was their commander.
+
+The significance of this arrangement is not small. The Kreti and the Pelti were the most politically sensitive unit in the kingdom. Their loyalty to the king was absolute, but the question of who commanded them was a question of who held the king's most intimate military trust. A commander who controlled the Kreti and the Pelti could, in principle, move against the king himself — the foreign mercenaries had no tribal loyalties that would prevent them from participating in a coup. David's decision to place Benayahu over this unit was the highest possible expression of personal trust. He was saying: the one man in this kingdom whose loyalty I do not need to question, even for a moment, is Benayahu ben Yehoyada. He will command the men who stand at my door.
+
+Yoav was over the full army. But Yoav was a family member — a nephew — whose loyalty came from blood. Benayahu was over the Kreti and the Pelti. Benayahu's loyalty came from character. The distinction is quiet but significant. Yoav was trusted because he was a relative. Benayahu was trusted because he was Benayahu. It is the higher form of trust.
+
+* * *
+
+## Benayahu in the succession crisis
+
+The highest-stakes moment of Benayahu's career came at the very end of David's life, in the succession crisis that divided the court of Yerushalayim between the supporters of Shlomo (whom David intended to be king) and the supporters of Adoniyahu (David's older surviving son, who had decided to crown himself while David was dying and who had secured the support of most of the older generation of officers).
+
+The story is told in Melakhim Aleph 1 and 2. We will return to it in more detail in a future volume on the Melakhim arc, but the relevant detail for our purposes is this: when the crisis broke, the supporters of Adoniyahu included almost everyone who had been close to David for decades. Yoav was with Adoniyahu. Evyatar the priest was with Adoniyahu. Most of the older sons of David were with Adoniyahu. The only senior figures who remained loyal to the Shlomo faction were Natan the prophet, Tzadok the priest, Batsheva, and Benayahu ben Yehoyada.
+
+Benayahu was the entire military strength of the Shlomo faction. Yoav had the full army. Benayahu had the Kreti and the Pelti. In raw terms, Yoav's force was many times larger than Benayahu's. But Benayahu had the king's personal guard, and the king's personal guard had the one thing that mattered in a succession crisis: physical access to David's bedroom.
+
+On the critical day, Batsheva and Natan went in to David and told him that Adoniyahu was being crowned in Ein Rogel. David made the decision — the decision he had apparently been putting off for months — to install Shlomo as king immediately, before Adoniyahu's coronation could be completed. He called for Tzadok, Natan, and Benayahu.
+
+And the dialogue is preserved in the Tanach with extraordinary specificity:
+
+"And the king said: Call to me Tzadok the priest, and Natan the prophet, and Benayahu ben Yehoyada. And they came before the king. And the king said to them: Take with you the servants of your lord, and cause Shlomo my son to ride upon my own mule, and bring him down to Gihon. And let Tzadok the priest and Natan the prophet anoint him there king over Israel, and blow the shofar, and say: Long live King Shlomo."
+
+The king was commanding that the official coronation of Shlomo be conducted by three men: Tzadok (the priestly authority), Natan (the prophetic authority), and Benayahu (the military authority). The three of them would take Shlomo to the spring of Gihon (just outside the wall of Yerushalayim), anoint him there in public, blow the shofar, and declare him king. The ceremony would be irrevocable. Once Shlomo had been anointed by the High Priest and declared king in public, Adoniyahu's claim would collapse.
+
+Benayahu answered.
+
+"Amen. Ken yomar Hashem Elohei adoni ha-melekh."
+
+"Amen. So may Hashem the God of my lord the king say."
+
+He added — in what the mefarshim treat as one of the most perfect examples of courtly wisdom in all of Tanach:
+
+"As Hashem has been with my lord the king, so may He be with Shlomo, and make his throne greater than the throne of my lord King David."
+
+Read that answer carefully. Benayahu was not just accepting the order. He was giving the king a blessing on the new king. He was saying: Your choice is the right choice. Hashem will be with Shlomo the way He has been with you. Shlomo's throne will be greater than yours. The blessing is the kind of blessing a loyal officer gives to his king in the moment of succession — and the fact that Benayahu had the presence of mind to say it, in the urgent confusion of the moment, is evidence of the kind of man he was. He was not just strong. He was wise. He was a courtier in the highest sense. He knew what needed to be said and he said it at exactly the right moment.
+
+Shlomo was anointed at Gihon that day. The shofar was blown. The crowd shouted "Long live King Shlomo!" The sound of the shofar carried across the Kidron valley and reached the ears of Adoniyahu and his guests at Ein Rogel, who understood immediately what had happened and dispersed in panic. Adoniyahu's coronation collapsed. Shlomo was king.
+
+And Benayahu ben Yehoyada was the man who had made it physically possible.
+
+* * *
+
+## The execution of Yoav
+
+David died shortly afterward. On his deathbed, he gave Shlomo the famous instructions about Yoav that we have been tracing across this entire series of volumes: "You know what Yoav ben Tzeruyah did to me, what he did to the two captains of the hosts of Israel, to Avner son of Ner and to Amasa son of Yeter, whom he killed, shedding the blood of war in peace, and putting the blood of war upon his girdle that was about his loins and upon his shoes that were on his feet. Do therefore according to your wisdom, and let not his hoary head go down to the grave in peace."
+
+Shlomo took the instructions seriously. After David's death, when Yoav — correctly reading the new political situation — fled to the Mishkan and took hold of the horns of the altar for asylum, Shlomo sent Benayahu to execute the judgment.
+
+The scene is preserved in Melakhim Aleph 2:28–34.
+
+Benayahu arrived at the Mishkan. He found Yoav clinging to the horns of the altar. He delivered the king's order.
+
+"Ko amar ha-melekh: tze."
+
+"Thus says the king: come out."
+
+Yoav refused.
+
+"Lo. Ki po amut."
+
+"No. For here I will die."
+
+Benayahu stood for a long moment in the doorway of the precinct. He had known Yoav for forty years. They had served David together since before either of them had been senior officers. They had fought beside each other in the wars against the Pelishtim and the Aramim and the Ammonim. They had buried friends together. They had argued, more than once, about the best way to handle a particular battle, and they had always managed to come to a working agreement in the end. And now Yoav was crouched at the base of the altar with his hands wrapped around the brass horns and his face turned away from Benayahu, refusing to come out.
+
+Benayahu spoke quietly.
+
+"Yoav."
+
+"I will not come out."
+
+"You are an old man, Yoav. You have served David for forty years. You served at the cave of Adullam. You held the army together at the forest of Efrayim. You killed Sheva ben Bichri at Avel Beit Ma'akhah. You have done more for this kingdom than almost any other man alive. Come out and walk with dignity to the place of judgment. Do not die at the altar like a criminal."
+
+"I am a criminal. We both know it. The king has ordered my death. I have nowhere else to go. I will die here, where the protection should have been mine, even if the protection turns out not to apply."
+
+"The protection does not apply to deliberate murderers. You know that as well as I do. The altar protects the man who killed by accident. It does not protect the man who killed Avner in the gateway of Chevron and Amasa at the great stone at Giv'on. Shlomo has ruled. The ruling is correct. Come out."
+
+"Then strike me here."
+
+Benayahu was silent.
+
+"Strike me here, Benayahu. If you are going to do it, do it at the altar. I will not give you the satisfaction of walking out under my own power. If the king wants my blood, the king can have my blood at the place where I have made my last stand."
+
+Benayahu turned and walked back out of the precinct. He walked across the courtyard to where Shlomo was waiting. He delivered the report.
+
+"My lord — he refuses to come out."
+
+"What did he say?"
+
+"He said that you must strike him at the altar. He will not walk out."
+
+Shlomo considered this for a long moment. Then he gave the counter-instruction.
+
+"Aseh ka'asher diber u-fga bo u-kvarto."
+
+"Do as he has said. Strike him down and bury him."
+
+Benayahu nodded. He turned and walked back to the precinct. He entered. He approached the altar. Yoav was still in the same position, his hands still around the horns, his face still turned away.
+
+"Yoav."
+
+"Is the answer the same?"
+
+"The answer is the same. The king has said I am to do as you have asked. I am to strike you here at the altar and bury you afterward."
+
+"Then do it. Quickly. I have nothing more to say."
+
+Benayahu drew his sword. He raised it. He brought it down on the back of Yoav's neck in a single clean strike. Yoav's body slumped forward against the altar. The brass horns held him for a moment, and then he fell to the side and lay still on the stones. The blood ran down the side of the altar and pooled at the base.
+
+Benayahu wiped his sword on the edge of his cloak. He turned and walked out of the precinct without looking back.
+
+The moment is one of the most charged in the entire book of Melakhim. An old general, clinging to the altar that had offered refuge to generations of Israelite criminals, refusing to come out. A younger officer — the man who had been ben ish chai, rav pe'alim mi-Kavtze'el, the head of the Sanhedrin, the commander of the Kreti and the Pelti, the man who had killed the lion in the pit on the snowy day — walking into the sacred precinct and striking down the old general with his sword. The blood of Yoav ran onto the stones of the Mishkan. The old general died at the altar he had been using for refuge.
+
+And Benayahu, who had just done the most morally difficult thing Shlomo could have asked of him, walked out of the Mishkan and returned to the palace to report that the king's order had been carried out.
+
+The mefarshim are divided on whether Benayahu's action was halachically permissible. The general rule is that a killer who takes refuge at the altar is protected from the blood-avenger — this is the rule of the cities of refuge applied to the altar in the Mishkan. But the exception is for deliberate murderers: a deliberate murderer does not receive the protection of the altar, and if he is found there, he can be extracted and executed. Yoav, by Shlomo's judgment, was a deliberate murderer (of Avner and of Amasa), and therefore the protection of the altar did not apply to him. The halachic question was whether Benayahu could extract him or had to execute him at the altar itself. Benayahu's execution of Yoav at the altar was — according to some mefarshim — a slight overreach, but one that was justified by the extreme circumstances and by Yoav's explicit refusal to come out.
+
+What matters for our chapter is that the execution of Yoav was the final act of Benayahu's career as a commander. It closed the long account of the sons of Tzeruyah that had begun at the cave of Adullam. It was the moment when the warrior-scholar killed the warrior-without-scholarship. It was the moment when the Benayahu tradition — the tradition of the scholar who knew how to fight — triumphed definitively over the Yoav tradition — the tradition of the soldier who knew how to fight but not how to think about why he was fighting.
+
+And it was Benayahu, not Shlomo, who actually swung the sword.
+
+* * *
+
+## The capture of Ashmedai
+
+There is one more story about Benayahu that must be told, and it is perhaps the strangest story in the entire Talmud.
+
+It is told in Gittin 68a–b, and according to rabbinic tradition it is the longest single narrative in the entire Babylonian Talmud. We can only sketch it here; the full story would require its own book.
+
+The setting is the building of the Beit HaMikdash. Shlomo has become king. He is preparing to build the First Temple on the threshing floor of Aravnah that David had purchased at the end of his reign. There is a halachic problem: the Torah in Devarim 27:5 forbids the use of iron tools to cut the stones of an altar. The principle, according to tradition, is that iron is the material of war — swords, spears, axes of battle — and the altar is the place of peace, the place of reconciliation between man and God. It would be a contradiction to cut the stones of the altar with the same material that is used for killing. The stones must be cut another way.
+
+Shlomo consults the Sanhedrin. The Sanhedrin tells him that there is a small creature — the shamir — that can cut stone without the use of iron. The shamir was used by Moshe to cut the stones of the Choshen (the breastplate of the High Priest). It had since disappeared. Shlomo asks where the shamir can be found. The Sanhedrin does not know. They tell him that only the demons would know, and among the demons, only Ashmedai — the king of the demons — would have the information.
+
+Shlomo orders Benayahu to capture Ashmedai.
+
+The capture is the heart of the Gittin 68 sugya. Benayahu is given two magical objects: a chain engraved with the Name of God, and a ring also engraved with the Name. He travels to the mountain where Ashmedai lives. The mountain has a pit on it, and the pit is filled with water, and Ashmedai drinks from the pit every day after returning from the heavenly study hall (where, according to the Gemara, Ashmedai spends his days learning Torah alongside the righteous souls).
+
+Benayahu digs a second pit below the water-pit of Ashmedai, drains the water into the lower pit, and plugs the connection with fleeces of wool. He then digs a third pit above Ashmedai's pit and fills it with wine, piping the wine down into Ashmedai's now-empty pit. He covers his work so that Ashmedai will not notice the substitution. He then climbs a tree nearby and waits.
+
+Ashmedai returns from the heavenly study hall. He checks the seal on the pit — it is intact. He removes the covering. He sees what looks like water. He is thirsty. He begins to drink. He realizes immediately that it is wine, not water, and he resists: he quotes verses against intoxication ("Wine is a mocker, strong drink is raging", "Do not look upon the wine when it is red"). But he is thirsty, and the wine is sweet, and after a while he drinks enough to become intoxicated. He falls asleep on the ground beside the pit.
+
+Benayahu descends from the tree. He approaches the sleeping king of the demons. He loops the chain — the chain engraved with the Divine Name — around Ashmedai's neck and fastens it. Ashmedai wakes up. He thrashes violently, trying to break the chain. Benayahu speaks to him in a calm voice:
+
+"Shma de-marakh alakh. Shma de-marakh alakh."
+
+"The Name of your Master is upon you. The Name of your Master is upon you."
+
+Ashmedai stops thrashing. He understands that he has been captured by the power of the Name that is written on the chain, and that struggling will not free him. He submits.
+
+Then he speaks for the first time.
+
+"Who are you?"
+
+"My name is Benayahu ben Yehoyada. I serve King Shlomo, the son of David."
+
+"Shlomo. The one who is building the Temple."
+
+"The same."
+
+"And he sent you here to capture me."
+
+"He did."
+
+"Why?"
+
+"Because he needs to know where the shamir is. And the Sanhedrin tells us that you are the only one in all the worlds who knows."
+
+Ashmedai is quiet for a long moment. Then he laughs — a strange dry laugh that does not sound like a human laugh.
+
+"The shamir. He sent you all this way for a worm. The king of Israel sends his greatest warrior to the mountain of the king of the demons to capture me with a chain bearing the Divine Name, and what he wants from me is the location of a worm."
+
+"He needs it for the Temple stones."
+
+"I know what he needs it for. I sit in the heavenly study hall every day. I know more about the construction plans of his Temple than he does. I am only laughing because the request is so small. He could have asked for so much more. He could have asked for the secrets of creation. He asked for a worm."
+
+"He asked for what he needed. A worm is what he needed. He is a king, not a magician."
+
+Ashmedai considers this.
+
+"You are not afraid of me."
+
+"No."
+
+"Why not?"
+
+"Because the Name of my Master is upon you. As long as the chain is around your neck, you will do what I tell you. And the chain is around your neck. So I do not need to be afraid."
+
+"And if the chain were not around my neck?"
+
+"Then I would still not be afraid. Fear is for men who do not know who their Master is. I know who my Master is. I do not need to fear you or anything else."
+
+Ashmedai is silent again. Then he says, in a quieter voice:
+
+"I knew a Yehoyada the priest in the heavenly study hall. He was a very righteous man. Are you his son?"
+
+"I am."
+
+"Then I will tell you what you want to know. Not because of the chain. Because of your father. The shamir is in the keeping of the Master of the Sea, who has entrusted it to a wild rooster — the tarnegola bara — who uses it to crack open mountains so that wild seeds can grow in the cracks. The rooster is sworn to return it after each use. If you can find the rooster's nest and trap it, the rooster will drop the shamir and you can take it. That is how Shlomo will get what he needs."
+
+"Thank you."
+
+"Take me to him. I will not resist. I will say what I have come to say. And then we will see what happens between me and your king."
+
+Benayahu nods. The two of them — the warrior and the bound king of the demons — begin the long walk back to Yerushalayim.
+
+On the journey Ashmedai performs several strange and cryptic actions that the Gemara preserves in detail. Some of them require explanation. Benayahu, walking beside him, asks for the explanations as the days pass.
+
+Eventually Benayahu delivers Ashmedai to Shlomo. Ashmedai, standing before the king, takes a reed and measures four cubits in the dirt. He tosses the reed at Shlomo's feet and says:
+
+"When that man — Shlomo — dies, he will have nothing in this world except these four cubits of grave. And you have conquered the entire world, and you are still not satisfied until you want to conquer me as well?"
+
+The four cubits are the dimensions of a grave. Ashmedai is rebuking Shlomo for imperial overreach — no matter how much a king conquers, the amount of earth he will eventually occupy is the same as the amount occupied by any other man. The rebuke is delivered with such force that Shlomo, according to the later part of the sugya, eventually loses his own kingdom for a time (Ashmedai takes Shlomo's magical ring and banishes him from the palace, impersonating him on the throne while the real Shlomo wanders as a beggar through the land — but that is a later part of the story that we cannot cover here).
+
+What matters for our chapter is that Benayahu was the one who captured Ashmedai. The longest story in the Talmud has Benayahu at its operational center. He dug the pits. He switched the water for wine. He waited in the tree. He looped the chain around the neck of the king of the demons. He said the words the Name of your Master is upon you. And he led Ashmedai back to Yerushalayim on a chain.
+
+The Gittin sugya is the final flowering of the rabbinic tradition about Benayahu. It takes the warrior-scholar of Berachot 18 and pushes him into the realm of myth — the realm where a man can travel to the mountain of the king of the demons and capture him with the power of the Divine Name and bring him back alive to the court of Yerushalayim. The myth is not separable from the rest of Benayahu's character. It is an extension of it. The man who broke ice to immerse in a freezing mikveh, who mastered Torat Kohanim in a winter day, who disarmed an Egyptian giant with a staff, who commanded the Kreti and the Pelti, who executed Yoav at the horns of the altar — that same man is also the man who captured the king of the demons in order to find the shamir that would build the Temple. The mythic Benayahu and the historical Benayahu are the same Benayahu. The rabbinic tradition treats them as one continuous figure.
+
+* * *
+
+## The grave
+
+Benayahu is buried in the village of Biriya, in the Galilee, just north of Tzfat. The location was unmarked for more than two thousand years. It was not mentioned in any of the medieval pilgrim accounts. It was known to exist somewhere in the northern hills, but no one knew where.
+
+In the sixteenth century, the Ari — Rabbi Yitzchak Luria — revealed the location to his disciple Rabbi Chaim Vital.
+
+The story, as preserved in the kabbalistic literature, goes like this. Rabbi Chaim Vital was sent by the Ari to perform yichudim (meditative unifications) at the graves of the Amoraim Abaye and Rava, which are located in a village called Ovnit in the Galilee. Rabbi Chaim Vital went and performed the yichudim. On the way back, tired from the journey, he sat down on a pile of rocks beside the road to rest. He reviewed the yichud his teacher had taught him. Then he stood up and continued back to Tzfat.
+
+When he arrived at the Ari's home, the Ari stood up from his seat to honor him. Rabbi Chaim Vital was astonished — it was not the custom of a teacher to stand up for a student. He asked why. The Ari answered: "I did not stand up for you. I stood up for the soul of Benayahu ben Yehoyada, which was accompanying you."
+
+Rabbi Chaim Vital was confused. He had not been to the grave of Benayahu. He had not even known where the grave of Benayahu was.
+
+Some weeks later, the Ari and his students were traveling in the Galilee. They passed a pile of rocks beside the road. The Ari stopped and pointed to the rocks. He said: "Here, under these rocks, is the grave of Benayahu ben Yehoyada." Rabbi Chaim Vital recognized the pile. It was the same pile of rocks on which he had rested on his way back from Ovnit. The yichud he had reviewed while sitting on the rocks had, through the power of the unification, brought Benayahu's soul up to accompany him on the journey. The Ari, who could see such things, had seen the accompanying soul when Rabbi Chaim Vital walked through the door. That was why he had stood up.
+
+The grave of Benayahu ben Yehoyada was, from that day forward, marked and venerated. It is still there today, in the village of Biriya, just north of Tzfat. Visitors can go to the site and perform yichudim at the grave. The Ari's kabbalistic writings record a specific set of meditations that are meant to be performed there.
+
+And three centuries after the Ari revealed the location, Rabbi Yosef Chaim of Baghdad made the pilgrimage from Iraq to the land of Israel. He visited the grave of Benayahu. And according to his own account, the experience was so spiritually intense, and the connection he felt to the soul of Benayahu was so personal, that he returned home to Baghdad and named all of his books after phrases from the verse in Shmuel Bet 23 that describes Benayahu — Ben Ish Chai, Ben Ish Chayil, Rav Pe'alim, Ben Yehoyada.
+
+The Ben Ish Chai would become one of the most important halachic decisors of the nineteenth century. His rulings are followed today by Sefardi Jews in Israel and throughout the diaspora. His books sit on the shelves of tens of thousands of study halls. And all of them are named after a single verse in Shmuel Bet 23 about a warrior from Kavtze'el who killed a lion in a pit on a snowy day and served as the head of the Sanhedrin under David and executed Yoav for Shlomo and captured Ashmedai in the hills above Yerushalayim.
+
+The soul of Benayahu ben Yehoyada has been with the Jewish people for three thousand years. The grave in Biriya is one of its stations. The Ben Ish Chai's library is another. The verses in Shmuel Bet 23 and Berachot 18 and Gittin 68 are the doorways through which the tradition enters the soul of anyone who sits down to learn them.
+
+This is what the Tanach meant when it called him ben ish chai — the son of a living man. Not only was his father Yehoyada a tzaddik who was called alive after his death. Benayahu himself is a tzaddik who is called alive after his death. He is still teaching. He is still gathering workers to God. His rav pe'alim mi-Kavtze'el is still true, three thousand years after the verse was first written down. The Gibborim of David were forty men in the register of Shmuel Bet 23, but one of them — Benayahu ben Yehoyada — has kept growing in spiritual significance across the centuries in a way that none of the others have. The honor roll in the Tanach named him once. Every generation since has added more commentary, more meditation, more love, more recognition. And the verse in Shmuel Bet 23 about the lion in the pit on the snowy day has become one of the most unpacked, most reread, most treasured verses in all of the book.
+
+That is the meaning of being ben ish chai.
+
+* * *

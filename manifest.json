@@ -496,6 +496,243 @@
             "file": "books/shmuel-stories-the-end-of-an-era/ch05.mp3"
           }
         ]
+      },
+      {
+        "name": "The King Rises",
+        "slug": "shmuel-stories-the-king-rises",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "",
+            "file": "books/shmuel-stories-the-king-rises/ch06.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Aron Comes Home",
+        "slug": "shmuel-stories-the-aron-comes-home",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-aron-comes-home/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-aron-comes-home/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-aron-comes-home/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-aron-comes-home/ch04.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Sin",
+        "slug": "shmuel-stories-the-sin",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-sin/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-sin/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-sin/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-sin/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "",
+            "file": "books/shmuel-stories-the-sin/ch05.mp3"
+          }
+        ]
+      },
+      {
+        "name": "Avshalom",
+        "slug": "shmuel-stories-avshalom",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch06.mp3"
+          },
+          {
+            "num": 7,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch07.mp3"
+          },
+          {
+            "num": 8,
+            "title": "",
+            "file": "books/shmuel-stories-avshalom/ch08.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Restoration",
+        "slug": "shmuel-stories-the-restoration",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-restoration/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-restoration/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-restoration/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-restoration/ch04.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Gibborim",
+        "slug": "shmuel-stories-the-gibborim",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "",
+            "file": "books/shmuel-stories-the-gibborim/ch06.mp3"
+          }
+        ]
+      },
+      {
+        "name": "The Threshing Floor",
+        "slug": "shmuel-stories-the-threshing-floor",
+        "chapters": [
+          {
+            "num": 1,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch01.mp3"
+          },
+          {
+            "num": 2,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch02.mp3"
+          },
+          {
+            "num": 3,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch03.mp3"
+          },
+          {
+            "num": 4,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch04.mp3"
+          },
+          {
+            "num": 5,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch05.mp3"
+          },
+          {
+            "num": 6,
+            "title": "",
+            "file": "books/shmuel-stories-the-threshing-floor/ch06.mp3"
+          }
+        ]
       }
     ]
   },
