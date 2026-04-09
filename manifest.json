@@ -877,29 +877,64 @@
     "slug": "sippurei-maasiyot",
     "chapters": [
       {
-        "num": 0,
-        "title": "Story01",
+        "num": 1,
+        "title": "The Lost Princess",
         "file": "books/sippurei-maasiyot/story01.mp3"
       },
       {
-        "num": 0,
-        "title": "Story02",
+        "num": 2,
+        "title": "The Emperor and the King",
         "file": "books/sippurei-maasiyot/story02.mp3"
       },
       {
-        "num": 0,
-        "title": "Story03",
+        "num": 3,
+        "title": "The Son Who Could Not Walk",
         "file": "books/sippurei-maasiyot/story03.mp3"
       },
       {
-        "num": 0,
-        "title": "Story04",
+        "num": 4,
+        "title": "The King Who Decreed Forced Conversion",
         "file": "books/sippurei-maasiyot/story04.mp3"
       },
       {
-        "num": 0,
-        "title": "Story05",
+        "num": 5,
+        "title": "The King's Son Who Was Made of Gemstones",
         "file": "books/sippurei-maasiyot/story05.mp3"
+      },
+      {
+        "num": 6,
+        "title": "The Humble King",
+        "file": "books/sippurei-maasiyot/story06.mp3"
+      },
+      {
+        "num": 7,
+        "title": "The Fly and the Spider",
+        "file": "books/sippurei-maasiyot/story07.mp3"
+      },
+      {
+        "num": 8,
+        "title": "The Rabbi and His Only Son",
+        "file": "books/sippurei-maasiyot/story08.mp3"
+      },
+      {
+        "num": 9,
+        "title": "The Clever Man and The Simple Man",
+        "file": "books/sippurei-maasiyot/story09.mp3"
+      },
+      {
+        "num": 10,
+        "title": "The Burgher and the Pauper",
+        "file": "books/sippurei-maasiyot/story10.mp3"
+      },
+      {
+        "num": 11,
+        "title": "The King's Son and Bondmaid's Son Who Were Switched",
+        "file": "books/sippurei-maasiyot/story11.mp3"
+      },
+      {
+        "num": 12,
+        "title": "The Prayer Meister",
+        "file": "books/sippurei-maasiyot/story12.mp3"
       }
     ]
   },
